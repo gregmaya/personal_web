@@ -3,12 +3,12 @@ project:
 
 website:
   title: "Greg Maya"
-#  site-url: https://mm218.dev
   description: "Location-Based Problem Solving"
   open-graph:
     locale: en_UK
+  search: false
   navbar:
-    right:
+    left:
       - text: "About"
         href: about.qmd
       - text: "Work"
