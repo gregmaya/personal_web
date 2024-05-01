@@ -1,6 +1,6 @@
 ---
 title: "Greg Maya"
-image: greg_avatar.jpeg
+image: greg_avatar.png
 about:
   template: solana
   links:

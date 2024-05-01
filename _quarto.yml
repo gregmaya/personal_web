@@ -22,3 +22,5 @@ website:
 format:
   html:
     theme: flatly # sandstone cosmo #
+execute:
+  freeze: auto
