@@ -1,0 +1,35 @@
+---
+title: "Greg Maya"
+image: greg_avatar.jpeg
+about:
+  template: solana
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/gregoriomaya"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/gregmaya"
+    - text: Tableau
+      icon: graph-up
+      url: "https://public.tableau.com/app/profile/gregorio.maya/vizzes"
+    - text: X
+      icon: twitter
+      url: "https://twitter.com/G_Maya_P"
+    - text: Email
+      icon: envelope-fill
+      url: "mailto:gregoriomaya+site@gmail.com"
+      
+---
+
+## Bio
+
+
+
+____________
+
+#### Location-Based Problem Thinking
+
+We shape spaces as much as they shape us. The routes we use, our preferred locations, what we see, and who we encounter not only create isolated experiences but also reinforce collective habits.
+
+The design of our buildings and cities are, more often than not, based on hopes rather than post-occupancy studies. By surfacing information about the built environment, one can expect more human-center designs and create an information loop that constantly feeds spatial decision-making pipelines.

@@ -1,0 +1,11 @@
+---
+title: "Work"
+listing:
+  contents: posts
+  type: default
+  sort: "date"
+---
+
+A small selection of projects that I have had the pleasure to work on. Most of these projects are collaborations with different companies and designers, all of which are credited in the description of each project.
+
+> Ideally this shows a grid of projects

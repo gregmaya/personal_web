@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Location-Based Problem Solving",
+    "section": "",
+    "text": "I am Gregorio Maya, a senior spatial data consultant currently based in Madrid, (Spain).\nI am passionate about discovering the cues that drive behaviour in the built environment. With an MSc in Space Syntax and an honours Degree in Architecture, over the last 9 years in industry (urban consultancy, workplace strategy, and tech development) I have leveraged technical skills of data science to inform desing and policy based on data analysis and visualization.\nMore recently, I have been collaborating with open source projects with PySAL devs (Python Spatial Analysis Libraries).\nAcademic activities are also a complementary part of my professional development. I am a frequent (virtual) lecturer at Universidad de los Andes (COL) and I often collaborate with professors at UCA Carnterbury (UK) and Universidad Nacional del Litoral (ARG)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Greg Maya",
+    "section": "",
+    "text": "We shape spaces as much as they shape us. The routes we use, our preferred locations, what we see, and who we encounter not only create isolated experiences but also reinforce collective habits.\nThe design of our buildings and cities are, more often than not, based on hopes rather than post-occupancy studies. By surfacing information about the built environment, one can expect more human-center designs and create an information loop that constantly feeds spatial decision-making pipelines."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Greg Maya",
+    "section": "",
+    "text": "We shape spaces as much as they shape us. The routes we use, our preferred locations, what we see, and who we encounter not only create isolated experiences but also reinforce collective habits.\nThe design of our buildings and cities are, more often than not, based on hopes rather than post-occupancy studies. By surfacing information about the built environment, one can expect more human-center designs and create an information loop that constantly feeds spatial decision-making pipelines."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Greg Maya",
+    "section": "",
+    "text": "Filtering ground noise from LiDAR returns produces inferior models of forest aboveground biomass in heterogenous landscapes. Mahoney, MJ, Johnson, LK, Bevilacqua, E, and Beier, CM. 2022. GIScience & Remote Sensing 59(1): 1266-1280. https://doi.org/10.1080/15481603.2022.2103069\nClassification and mapping of low-statured shrubland cover types in post-agricultural landscapes of the US Northeast. Mahoney, MJ, Johnson, LK, Guinan, AZ, and Beier, CM. 2022. International Journal of Remote Sensing 43(19-24): 7117-7138. https://doi.org/10.1080/01431161.2022.2155086\nunifir: A Unifying API for Interacting with Unity from R. Mahoney, MJ, Beier, CM, and Ackerman, AC. 2022. Journal of Open Source Software 7(73): 4388. https://doi.org/10.21105/joss.04388\nterrainr: An R package for creating immersive virtual environments. Mahoney, MJ, Beier, CM, and Ackerman, AC. 2022. Journal of Open Source Software, 7(69): 4060. https://doi.org/10.21105/joss.04060\n\n\n\nwaywiser | Ergonomic Methods for Assessing Spatial Models | 2023\nspatialsample | Spatial Resampling Infrastructure | 2022\nunifir | A Unifying API for Working with Unity in R | 2022\nterrainr | Retrieve Data from the USGS National Map and Transform it for 3D Landscape Visualizations | 2021"
+  },
+  {
+    "objectID": "about.html#spatial-data-science",
+    "href": "about.html#spatial-data-science",
+    "title": "About",
+    "section": "",
+    "text": "I am Gregorio Maya, a senior spatial data consultant currently based in Madrid, (Spain). I am passionate about discovering the cues that drive behaviour in the built environment. With an MSc in Space Syntax and an honours Degree in Architecture, over the last 9 years in industry (urban consultancy, workplace strategy, and tech development) I have leveraged technical skills of data science to inform desing and policy based on data analysis and visualization. More recently, I have been collaborating with open source projects with PySAL devs (Python Spatial Analysis Libraries).\nAcademic activities are also a complementary part of my professional development. I am a frequent (virtual) lecturer at Universidad de los Andes (COL) and I often collaborate with professors at UCA Carnterbury (UK) and Universidad Nacional del Litoral (ARG).\n::: {.column-page}"
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "Location-Based Problem Solving",
+    "section": "Mission",
+    "text": "Mission\nTo work across disciplines to surface the hidden properties of the built environment."
+  },
+  {
+    "objectID": "about.html#vision",
+    "href": "about.html#vision",
+    "title": "Location-Based Problem Solving",
+    "section": "Vision",
+    "text": "Vision\nA built-environemnt industry that embraces the opportunities that lie in space to trigger positive social behaviours."
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "Location-Based Problem Solving",
+    "section": "Languages",
+    "text": "Languages\n\nSpanish (native)\nEnglish (full professional working proficiency)\nFrench (fluent)\nPortuguese (conversational)"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "About",
+    "section": "",
+    "text": "I am Gregorio Maya, a senior spatial data consultant currently based in Madrid, (Spain).\nI am passionate about discovering the cues that drive behaviour in the built environment. With an MSc in Space Syntax and an honours Degree in Architecture, over the last 9 years in industry (urban consultancy, workplace strategy, and tech development) I have leveraged technical skills of data science to inform desing and policy based on data analysis and visualization.\nMore recently, I have been collaborating with open source projects with PySAL devs (Python Spatial Analysis Libraries).\nAcademic activities are also a complementary part of my professional development. I am a frequent (virtual) lecturer at Universidad de los Andes (COL) and I often collaborate with professors at UCA Carnterbury (UK) and Universidad Nacional del Litoral (ARG)."
+  },
+  {
+    "objectID": "talks/index_talks.html#univerdidad-de-los-andes",
+    "href": "talks/index_talks.html#univerdidad-de-los-andes",
+    "title": "Talks",
+    "section": "UNIVERDIDAD DE LOS ANDES",
+    "text": "UNIVERDIDAD DE LOS ANDES"
+  },
+  {
+    "objectID": "talks/index_talks.html",
+    "href": "talks/index_talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Universidad Nacional del Litoral\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\nJune 2023 | Spanish | Remote\n\n\n\n\n\n\nUniversidad de los Andes\nFacultad de Arquitectura y Diseño\n\n\nNovember 2018 | Spanish | On-site"
+  },
+  {
+    "objectID": "talks/index_talks.html#fadu",
+    "href": "talks/index_talks.html#fadu",
+    "title": "Talks",
+    "section": "",
+    "text": "Facultad de Arquitectura, Diseño y Urbanismo June 2023 Language : Spanish Mode : Remote"
+  },
+  {
+    "objectID": "talks/index_talks.html#uniandes",
+    "href": "talks/index_talks.html#uniandes",
+    "title": "Talks",
+    "section": "",
+    "text": "Date: June 2023 Language : Spanish Mode : Remote"
+  },
+  {
+    "objectID": "talks/index_talks.html#fadu---arg",
+    "href": "talks/index_talks.html#fadu---arg",
+    "title": "Talks",
+    "section": "",
+    "text": "Universidad Nacional del Litoral\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\nJune 2023 | Spanish | Remote"
+  },
+  {
+    "objectID": "talks/index_talks.html#uniandes---col",
+    "href": "talks/index_talks.html#uniandes---col",
+    "title": "Talks",
+    "section": "",
+    "text": "Universidad de los Andes\nFacultad de Arquitectura y Diseño\n\n\nNovember 2018 | Spanish | On-site"
+  },
+  {
+    "objectID": "work/index_work.html",
+    "href": "work/index_work.html",
+    "title": "Work",
+    "section": "",
+    "text": "A small selection of projects that I have had the pleasure to work on. Most of these projects are collaborations with different companies and designers, all of which are credited in the description of each project.\n\nIdeally this shows a grid of projects\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "services/index_services.html",
+    "href": "services/index_services.html",
+    "title": "Services",
+    "section": "",
+    "text": "As a spatial data consultant, I mostly work with teams who want to take their data to the next level.\nMy approach is not to provide isolated solutions, but instead to walk the journey with you while making sure that the output is fit for purpose but also maintainable by you.\nMost of what I focus on:\n\nUrban diagnostics\nMorphological metrics for scenario testing\nPost-occupancy studies\nNetwork modeling for spatial and social environments\nSpatial visibility analysis\nInteractive data visualization (spatial and not!)\n\n\nTools & Softwares\nI use an array of tools depending on the needs. Yes, my preferance is usually to go open-source but this is not always possible. The following are just some tools I commonly use:\nPython, PostGIS - SQL, Tableau, QGIS, Isovists, Gephi, to name a few…\n\n\n\n\n\n\n\n\n\n\n\n\n\nProp Tech\n Property technology companies are constantly trying to leverage their location information for augmented business insights. \n\n\n\n\n\n\n\n\n\n\nReal Estate Managers\n Managers need to create information pipelines to track and report space utilization for improving performance and community building. \n\n\n\n\n\n\n\n\n\n\nArchitect Studios and Urban Planners\n Planners need analytics on land use, pedestrian movement, urban morphology, and more to create sustainable designs and policies based on evidence. \n\n\n\n\n\n\n\n\n\n\nAcademia\n Network theories, morphological analysis or data analysis are not common practices for most social sciencies nowadays, but current market asks for profesionals aware of these domains. \n\n\n\n\n\n\n\n\n\n\nData Vizualisation\n Most people and organisations need easy ways to visualize and understand their data. I can help to create data pipelines and dashboards for revealing important information."
+  },
+  {
+    "objectID": "services/index_services.html#section",
+    "href": "services/index_services.html#section",
+    "title": "Services",
+    "section": "###",
+    "text": "###\n\n\n\n\nProp Tech\n\n\n\nProperty technology companies are constantly trying to leverage their location information for augmented business insights.\n\n\n\n\n\nReal Estate Managers\n\n\n\nManagers need to create information pipelines to track and report space utilization for improving performance and community building.\n\n\n\n\n\nArchitect Studios and Urban Planners\n\n\n\nPlanners need analytics on land use, pedestrian movement, urban morphology, and more to create sustainable designs and policies.\n\n\n\n\n\nAcademia\n\n\n\nNetwork theories, morphological analysis or data analysis are not common practices for most social sciencies nowadays, but current market asks for profesionals aware of these domains.\n\n\n\n\n\nData Vizualisation\n\n\n\nMost people and organisations need easy ways to visualize and understand their data. I can help to create data pipelines and dashboards for revealing important information."
+  },
+  {
+    "objectID": "others/index_others.html#fadu---arg",
+    "href": "others/index_others.html#fadu---arg",
+    "title": "Others",
+    "section": "FADU - ARG",
+    "text": "FADU - ARG\nUniversidad Nacional del Litoral\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\nJune 2023 | Spanish | Remote"
+  },
+  {
+    "objectID": "others/index_others.html#uniandes---col",
+    "href": "others/index_others.html#uniandes---col",
+    "title": "Others",
+    "section": "UNIANDES - COL",
+    "text": "UNIANDES - COL\nUniversidad de los Andes\nFacultad de Arquitectura y Diseño\n\n\nNovember 2018 | Spanish | On-site"
+  },
+  {
+    "objectID": "others/index_others.html#articles",
+    "href": "others/index_others.html#articles",
+    "title": "Others",
+    "section": "Articles",
+    "text": "Articles\nThe following are non academic articles I have been invited to write, where I have been able to express my personal opinions. Eventhought they are part of academic environments (and their audiences are mostly academic) they are not peered-reviewed publications.\n\nExploring Salmona [ENG]\nISOVISTS.ORG, Salmona Fellowship 2019 (British Council)\nFollow link to read.\n\n\nLa configuración espacial: el valor agregado de la Arquitectura. [ESP]\nREVISTA IDEAS20, ArqDis - Uniandes\nClick to download PDF to read."
+  }
+]

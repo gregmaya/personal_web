@@ -1,0 +1,103 @@
+---
+title: "Services"
+---
+
+As a **spatial data consultant**, I mostly work with teams who want to take their data to the next level.
+
+My approach is **not to provide isolated solutions**, but instead to walk the journey with you while making sure that the output is fit for purpose but also maintainable by you.
+
+Most of what I focus on:
+
+- Urban diagnostics
+- Morphological metrics for scenario testing
+- Post-occupancy studies
+- Network modeling for spatial and social environments
+- Spatial visibility analysis
+- Interactive data visualization (spatial and not!)
+
+### Tools & Softwares
+
+I use an array of tools depending on the needs. Yes, my preferance is usually to go open-source but this is not always possible. The following are just some tools I commonly use: 
+
+**Python**, **PostGIS - SQL**, [**Tableau**](https://www.credly.com/badges/d368cdea-2e12-4bee-900e-0c9dd3d58469), **QGIS**, [**Isovists**](https://isovists.org/), **Gephi**, to name a few...
+
+### 
+
+:::: {.column-page}
+----
+### <!-- empty to create some space -->
+::: {.column width="16%"}
+![](images/smart-city.png){height=70px fig-align="centre"}
+
+**Prop Tech**
+
+<small>
+Property technology companies are constantly trying to leverage their location information for augmented business insights.
+</small>
+
+:::
+
+::: {.column width="4%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="16%"}
+
+![](images/domotics.png){height=70px fig-align="centre"}
+
+**Real Estate Managers**
+
+<small>
+Managers need to create information pipelines to track and report space utilization for improving performance and community building.
+</small>
+
+:::
+
+::: {.column width="4%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="16%"}
+
+![](images/engineer.png){height=70px fig-align="centre"}
+
+**Architect Studios and Urban Planners**
+
+<small> 
+ Planners need analytics on land use, pedestrian movement, urban morphology, and more to create sustainable designs and policies based on evidence.
+ </small> 
+
+:::
+
+::: {.column width="4%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="16%"}
+
+![](images/mortarboard.png){height=70px fig-align="centre"}
+
+**Academia**
+
+<small>
+Network theories, morphological analysis or data analysis are not common practices for most social sciencies nowadays, but current market asks for profesionals aware of these domains.
+</small>
+:::
+
+::: {.column width="4%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="16%"}
+
+![](images/visualization.png){height=70px fig-align="centre"}
+
+**Data Vizualisation**
+
+<small>
+Most people and organisations need easy ways to visualize and understand their data. I can help to create data pipelines and dashboards for revealing important information.
+</small>
+
+:::
+
+:::: 

@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Greg Maya"
+#  site-url: https://mm218.dev
+  description: "Location-Based Problem Solving"
+  open-graph:
+    locale: en_UK
+  navbar:
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Work"
+        href: work/index_work.qmd
+      - text: "Services"
+        href: services/index_services.qmd
+      - text: "Others"
+        href: others/index_others.qmd
+  page-footer:
+    center: "© Copyright 2024 Greg Maya. Except where otherwise noted. All text and images licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme: flatly # sandstone cosmo #
