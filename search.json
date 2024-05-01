@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "services/index_services.html",
-    "href": "services/index_services.html",
-    "title": "Services",
+    "objectID": "work/index_work.html",
+    "href": "work/index_work.html",
+    "title": "Work",
     "section": "",
-    "text": "As a spatial data consultant, I mostly work with teams who want to take their data to the next level.\nMy approach is not to provide isolated solutions, but instead to walk the journey with you while making sure that the output is fit for purpose but also maintainable by you.\nMost of what I focus on:\n\nUrban diagnostics\nMorphological metrics for scenario testing\nPost-occupancy studies\nNetwork modeling for spatial and social environments\nSpatial visibility analysis\nInteractive data visualization (spatial and not!)\n\n\nTools & Softwares\nI use an array of tools depending on the needs. Yes, my preferance is usually to go open-source but this is not always possible. The following are just some tools I commonly use:\nPython, PostGIS - SQL, Tableau, QGIS, Isovists, Gephi, to name a few…\n\n\n\n\n\n\n\n\n\n\n\n\n\nProp Tech\n Property technology companies are constantly trying to leverage their location information for augmented business insights. \n\n\n\n\n\n\n\n\n\n\nReal Estate Managers\n Managers need to create information pipelines to track and report space utilization for improving performance and community building. \n\n\n\n\n\n\n\n\n\n\nArchitect Studios and Urban Planners\n Planners need analytics on land use, pedestrian movement, urban morphology, and more to create sustainable designs and policies based on evidence. \n\n\n\n\n\n\n\n\n\n\nAcademia\n Network theories, morphological analysis or data analysis are not common practices for most social sciencies nowadays, but current market asks for profesionals aware of these domains. \n\n\n\n\n\n\n\n\n\n\nData Vizualisation\n Most people and organisations need easy ways to visualize and understand their data. I can help to create data pipelines and dashboards for revealing important information."
-  },
-  {
-    "objectID": "work/sense_place.html",
-    "href": "work/sense_place.html",
-    "title": "Sense of Place",
-    "section": "",
-    "text": "weojnbcwoiew\nokwencoikwdnjc adoikw pijrwpo"
+    "text": "A small selection of projects that I have had the pleasure to work on. Most of these projects are collaborations with different companies and designers, all of which are credited in the description of each project.\n\nIdeally this shows a grid of projects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSense of Place\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2015\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -49,6 +42,13 @@
     "text": "Articles\nThe following are non academic articles I have been invited to write, where I have been able to express my personal opinions. Eventhought they are part of academic environments (and their audiences are mostly academic) they are not peered-reviewed publications.\n\nExploring Salmona [ENG]\nISOVISTS.ORG, Salmona Fellowship 2019 (British Council)\nFollow link to read.\n\n\nLa configuración espacial: el valor agregado de la Arquitectura. [ESP]\nREVISTA IDEAS20, ArqDis - Uniandes\nClick to download PDF to read."
   },
   {
+    "objectID": "services/index_services.html",
+    "href": "services/index_services.html",
+    "title": "Services",
+    "section": "",
+    "text": "As a spatial data consultant, I mostly work with teams who want to take their data to the next level.\nMy approach is not to provide isolated solutions, but instead to walk the journey with you while making sure that the output is fit for purpose but also maintainable by you.\nMost of what I focus on:\n\nUrban diagnostics\nMorphological metrics for scenario testing\nPost-occupancy studies\nNetwork modeling for spatial and social environments\nSpatial visibility analysis\nInteractive data visualization (spatial and not!)\n\n\nTools & Softwares\nI use an array of tools depending on the needs. Yes, my preferance is usually to go open-source but this is not always possible. The following are just some tools I commonly use:\nPython, PostGIS - SQL, Tableau, QGIS, Isovists, Gephi, to name a few…\n\n\n\n\n\n\n\n\n\n\n\n\n\nProp Tech\n Property technology companies are constantly trying to leverage their location information for augmented business insights. \n\n\n\n\n\n\n\n\n\n\nReal Estate Managers\n Managers need to create information pipelines to track and report space utilization for improving performance and community building. \n\n\n\n\n\n\n\n\n\n\nArchitect Studios and Urban Planners\n Planners need analytics on land use, pedestrian movement, urban morphology, and more to create sustainable designs and policies based on evidence. \n\n\n\n\n\n\n\n\n\n\nAcademia\n Network theories, morphological analysis or data analysis are not common practices for most social sciencies nowadays, but current market asks for profesionals aware of these domains. \n\n\n\n\n\n\n\n\n\n\nData Vizualisation\n Most people and organisations need easy ways to visualize and understand their data. I can help to create data pipelines and dashboards for revealing important information."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Location-Based Problem Solving",
@@ -77,10 +77,10 @@
     "text": "Languages\n\nSpanish (native)\nEnglish (100% fluent)\nFrench (100% fluent)\nPortuguese (conversational)"
   },
   {
-    "objectID": "work/index_work.html",
-    "href": "work/index_work.html",
-    "title": "Work",
+    "objectID": "work/sense_place.html",
+    "href": "work/sense_place.html",
+    "title": "Sense of Place",
     "section": "",
-    "text": "A small selection of projects that I have had the pleasure to work on. Most of these projects are collaborations with different companies and designers, all of which are credited in the description of each project.\n\nIdeally this shows a grid of projects\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "weojnbcwoiew\nokwencoikwdnjc adoikw pijrwpo"
   }
 ]
