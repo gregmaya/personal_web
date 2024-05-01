@@ -1,7 +1,7 @@
 ---
 title: "Work"
 listing:
-  contents: posts
+#  contents: posts
   type: default
   sort: "date"
 ---
