@@ -1,5 +1,6 @@
 ---
 title: "Location-Based Problem Solving"
+sidebar: false
 about:
   template: trestles
 ---

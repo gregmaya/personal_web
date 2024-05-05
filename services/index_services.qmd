@@ -1,5 +1,6 @@
 ---
 title: "Services"
+sidebar: false
 ---
 
 As a **spatial data consultant**, I mostly work with teams who want to take their data to the next level.
@@ -92,10 +93,10 @@ Network theories, morphological analysis or data analysis are not common practic
 
 ![](images/visualization.png){height=70px fig-align="centre"}
 
-**Data Vizualisation**
+**Data Visualisation**
 
 <small>
-Most people and organisations need easy ways to visualize and understand their data. I can help to create data pipelines and dashboards for revealing important information.
+Most people and organisations need easy ways to represent and understand their data. I can help to create data pipelines and dashboards for revealing important information.
 </small>
 
 :::

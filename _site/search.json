@@ -74,13 +74,139 @@
     "href": "services/index_services.html",
     "title": "Services",
     "section": "",
-    "text": "As a spatial data consultant, I mostly work with teams who want to take their data to the next level.\nMy approach is not to provide isolated solutions, but instead to walk the journey with you while making sure that the output is fit for purpose but also maintainable by you.\nMost of what I focus on:\n\nUrban diagnostics\nMorphological metrics for scenario testing\nPost-occupancy studies\nNetwork modeling for spatial and social environments\nSpatial visibility analysis\nInteractive data visualization (spatial and not!)\n\n\nTools & Softwares\nI use an array of tools depending on the needs. Yes, my preferance is usually to go open-source but this is not always possible. The following are just some tools I commonly use:\nPython, PostGIS - SQL, Tableau, QGIS, Isovists, Gephi, to name a few…\n\n\n\n\n\n\n\n\n\n\n\n\n\nProp Tech\n Property technology companies are constantly trying to leverage their location information for augmented business insights. \n\n\n\n\n\n\n\n\n\n\nReal Estate Managers\n Managers need to create information pipelines to track and report space utilization for improving performance and community building. \n\n\n\n\n\n\n\n\n\n\nArchitect Studios and Urban Planners\n Planners need analytics on land use, pedestrian movement, urban morphology, and more to create sustainable designs and policies based on evidence. \n\n\n\n\n\n\n\n\n\n\nAcademia\n Network theories, morphological analysis or data analysis are not common practices for most social sciencies nowadays, but current market asks for profesionals aware of these domains. \n\n\n\n\n\n\n\n\n\n\nData Vizualisation\n Most people and organisations need easy ways to visualize and understand their data. I can help to create data pipelines and dashboards for revealing important information."
+    "text": "As a spatial data consultant, I mostly work with teams who want to take their data to the next level.\nMy approach is not to provide isolated solutions, but instead to walk the journey with you while making sure that the output is fit for purpose but also maintainable by you.\nMost of what I focus on:\n\nUrban diagnostics\nMorphological metrics for scenario testing\nPost-occupancy studies\nNetwork modeling for spatial and social environments\nSpatial visibility analysis\nInteractive data visualization (spatial and not!)\n\n\nTools & Softwares\nI use an array of tools depending on the needs. Yes, my preferance is usually to go open-source but this is not always possible. The following are just some tools I commonly use:\nPython, PostGIS - SQL, Tableau, QGIS, Isovists, Gephi, to name a few…\n\n\n\n\n\n\n\n\n\n\n\n\n\nProp Tech\n Property technology companies are constantly trying to leverage their location information for augmented business insights. \n\n\n\n\n\n\n\n\n\n\nReal Estate Managers\n Managers need to create information pipelines to track and report space utilization for improving performance and community building. \n\n\n\n\n\n\n\n\n\n\nArchitect Studios and Urban Planners\n Planners need analytics on land use, pedestrian movement, urban morphology, and more to create sustainable designs and policies based on evidence. \n\n\n\n\n\n\n\n\n\n\nAcademia\n Network theories, morphological analysis or data analysis are not common practices for most social sciencies nowadays, but current market asks for profesionals aware of these domains. \n\n\n\n\n\n\n\n\n\n\nData Visualisation\n Most people and organisations need easy ways to represent and understand their data. I can help to create data pipelines and dashboards for revealing important information."
   },
   {
     "objectID": "work/index_work.html",
     "href": "work/index_work.html",
-    "title": "Work",
+    "title": "Works",
     "section": "",
-    "text": "A small selection of projects that I have had the pleasure to work on. Most of these projects are collaborations with different companies and designers, all of which are credited in the description of each project.\n\nIdeally this shows a grid of projects\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nSense of Place\n\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2015\n\n\n\n\n\n\nNo matching items"
+    "text": "A small selection of projects that I have had the pleasure to work on. Most of these projects are collaborations with different companies and designers, all of which are credited in the description of each project.\n\nbriefly explain each of the cateogries"
+  },
+  {
+    "objectID": "work/data_vis.html",
+    "href": "work/data_vis.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "Explain the nature of these types of projects."
+  },
+  {
+    "objectID": "work/data_vis.html#section",
+    "href": "work/data_vis.html#section",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "Explain the nature of these types of projects."
+  },
+  {
+    "objectID": "work/article19.html",
+    "href": "work/article19.html",
+    "title": "Article 19",
+    "section": "",
+    "text": "a short description of my impact and involvement in A19 GxR reports and overall pipeline."
+  },
+  {
+    "objectID": "work/urban_planning.html",
+    "href": "work/urban_planning.html",
+    "title": "Urban Planning",
+    "section": "",
+    "text": "Explain the nature of these types of projects."
+  },
+  {
+    "objectID": "work/archi_int.html",
+    "href": "work/archi_int.html",
+    "title": "Architecture and Interior Design",
+    "section": "",
+    "text": "Explain the nature of these types of projects."
+  },
+  {
+    "objectID": "work/data_viz/article19.html",
+    "href": "work/data_viz/article19.html",
+    "title": "Article 19",
+    "section": "",
+    "text": "a short description of my impact and involvement in A19 GxR reports and overall pipeline."
+  },
+  {
+    "objectID": "work/data_viz/end_ch_poverty.html",
+    "href": "work/data_viz/end_ch_poverty.html",
+    "title": "End Child Poverty",
+    "section": "",
+    "text": "a short description of my impact and involvement in A19 GxR reports and overall pipeline."
+  },
+  {
+    "objectID": "work/data_viz/index_data.html",
+    "href": "work/data_viz/index_data.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "a short description of my take and the reason I do this."
+  },
+  {
+    "objectID": "work/data_viz/jgraphs.html",
+    "href": "work/data_viz/jgraphs.html",
+    "title": "J-Graphs",
+    "section": "",
+    "text": "a short description…"
+  },
+  {
+    "objectID": "work/others/index_others.html#fadu---arg",
+    "href": "work/others/index_others.html#fadu---arg",
+    "title": "Others",
+    "section": "FADU - ARG",
+    "text": "FADU - ARG\nUniversidad Nacional del Litoral\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\nJune 2023 | Spanish | Remote"
+  },
+  {
+    "objectID": "work/others/index_others.html#uniandes---col",
+    "href": "work/others/index_others.html#uniandes---col",
+    "title": "Others",
+    "section": "UNIANDES - COL",
+    "text": "UNIANDES - COL\nUniversidad de los Andes\nFacultad de Arquitectura y Diseño\n\n\nNovember 2018 | Spanish | On-site"
+  },
+  {
+    "objectID": "work/others/index_others.html#articles",
+    "href": "work/others/index_others.html#articles",
+    "title": "Others",
+    "section": "Articles",
+    "text": "Articles\nThe following are non academic articles I have been invited to write, where I have been able to express my personal opinions. Eventhought they are part of academic environments (and their audiences are mostly academic) they are not peered-reviewed publications.\n\nExploring Salmona [ENG]\nISOVISTS.ORG, Salmona Fellowship 2019 (British Council)\nFollow link to read.\n\n\nLa configuración espacial: el valor agregado de la Arquitectura. [ESP]\nREVISTA IDEAS20, ArqDis - Uniandes\nClick to download PDF to read."
+  },
+  {
+    "objectID": "work/others/articles.html",
+    "href": "work/others/articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "The following are non academic articles I have been invited to write, where I have been able to express my personal opinions. Eventhought they are part of academic environments (and their audiences are mostly academic) they are not peered-reviewed publications.\n\nExploring Salmona [ENG]\nISOVISTS.ORG, Salmona Fellowship 2019 (British Council)\nFollow link to read.\n\n\nLa configuración espacial: el valor agregado de la Arquitectura. [ESP]\nREVISTA IDEAS20, ArqDis - Uniandes\nClick to download PDF to read."
+  },
+  {
+    "objectID": "work/others/talks.html",
+    "href": "work/others/talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Universidad Nacional del Litoral\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\nJune 2023 | Spanish | Remote"
+  },
+  {
+    "objectID": "work/others/talks.html#fadu---arg",
+    "href": "work/others/talks.html#fadu---arg",
+    "title": "Talks",
+    "section": "",
+    "text": "Universidad Nacional del Litoral\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\nJune 2023 | Spanish | Remote"
+  },
+  {
+    "objectID": "work/others/talks.html#uniandes---col",
+    "href": "work/others/talks.html#uniandes---col",
+    "title": "Talks",
+    "section": "UNIANDES - COL",
+    "text": "UNIANDES - COL\nUniversidad de los Andes\nFacultad de Arquitectura y Diseño\n\n\nNovember 2018 | Spanish | On-site"
+  },
+  {
+    "objectID": "work/urban/rab_simpl.html",
+    "href": "work/urban/rab_simpl.html",
+    "title": "Round About Simplification",
+    "section": "",
+    "text": "explaing that this was done throu"
+  },
+  {
+    "objectID": "work/archi/bru.html",
+    "href": "work/archi/bru.html",
+    "title": "Building Research Unit",
+    "section": "",
+    "text": "develop publishable content"
   }
 ]

@@ -19,5 +19,44 @@
   },
   "work/sense_place.qmd": {
     "sense_place.html": "6304a801"
+  },
+  "work/data_vis.qmd": {
+    "data_vis.html": "65928acf"
+  },
+  "work/article19.qmd": {
+    "article19.html": "56163af2"
+  },
+  "work/urban_planning.qmd": {
+    "urban_planning.html": "fb5becda"
+  },
+  "work/archi_int.qmd": {
+    "archi_int.html": "4e3977c8"
+  },
+  "work/data_viz/article19.qmd": {
+    "article19.html": "3d74d7e7"
+  },
+  "work/data_viz/end_ch_poverty.qmd": {
+    "end_ch_poverty.html": "74b13d71"
+  },
+  "work/data_viz/index_data.qmd": {
+    "index_data.html": "b9847442"
+  },
+  "work/data_viz/jgraphs.qmd": {
+    "jgraphs.html": "ce63d199"
+  },
+  "work/others/index_others.qmd": {
+    "index_others.html": "07424a7e"
+  },
+  "work/others/articles.qmd": {
+    "articles.html": "ec58377b"
+  },
+  "work/others/talks.qmd": {
+    "talks.html": "72e31df5"
+  },
+  "work/urban/rab_simpl.qmd": {
+    "rab_simpl.html": "df5db848"
+  },
+  "work/archi/bru.qmd": {
+    "bru.html": "3f958b10"
   }
 }

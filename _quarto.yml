@@ -4,19 +4,52 @@ project:
 website:
   title: "Greg Maya"
   description: "Location-Based Problem Solving"
+  search: false  
   open-graph:
     locale: en_UK
-  search: false
   navbar:
+    background: primary
     left:
       - text: "About"
         href: about.qmd
-      - text: "Work"
+      - text: "Works"
         href: work/index_work.qmd
       - text: "Services"
         href: services/index_services.qmd
-      - text: "Others"
-        href: others/index_others.qmd
+
+  sidebar:
+      title: Works
+      style: "docked"
+      border: false
+      collapse-level: 1
+      contents:
+      - section: "Data Visualisation"
+        contents: 
+        - text: "J-Graphs"
+          href : work/data_viz/jgraphs.qmd
+        - text: "Article 19"
+          href : work/data_viz/article19.qmd
+        - text: "End Child Poverty"
+          href : work/data_viz/end_ch_poverty.qm
+      
+      - section: "Urban Planning"
+        contents: 
+        - text: "Roundabout Simplification"
+          href: work/urban/rab_simpl.qmd
+
+      - section: "Architecture & Strategy"
+        contents: 
+        - text: Building Research Unit
+          href: work/archi/bru.qmd
+
+      - section: "Others"
+        contents: 
+        - text: "Talks"
+          href: work/others/talks.qmd
+        - text: "Articles"
+          href: work/others/articles.qmd
+      
+  
   page-footer:
     center: "© Copyright 2024 Greg Maya. Except where otherwise noted. All text and images licensed CC-BY-NC 4.0."
 format:

@@ -1,5 +1,6 @@
 ---
 title: "Greg Maya"
+sidebar: false
 image: greg_avatar.png
 about:
   template: solana
