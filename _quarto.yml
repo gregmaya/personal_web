@@ -54,6 +54,9 @@ website:
     center: "© Copyright 2024 Greg Maya. Except where otherwise noted. All text and images licensed CC-BY-NC 4.0."
 format:
   html:
-    theme: flatly # sandstone cosmo #
+    theme: 
+      light: flatly # sandstone cosmo
+      dark: darkly
+    css: styles.css 
 execute:
   freeze: auto
