@@ -1,0 +1,15 @@
+/* css styles */
+/* custom.css - This styles the hyperlinks */
+a {
+    color: #2a6bac;
+    /* Sets the text color to blue */
+    text-decoration: none;
+    /* Removes underline from links */
+}
+
+a:hover {
+    color: #2226ff;
+    /* Changes color on hover to a different shade */
+    text-decoration: underline;
+    /* Adds underline on hover */
+}

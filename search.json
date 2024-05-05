@@ -51,7 +51,7 @@
     "href": "about.html",
     "title": "Location-Based Problem Solving",
     "section": "",
-    "text": "I am Gregorio Maya, a senior spatial data consultant currently based in Madrid, (Spain).\nI am passionate about discovering the cues that drive behaviour in the built environment. With an MSc in Space Syntax and an honours Degree in Architecture, over the last 9 years in industry (urban consultancy, workplace strategy, and tech development) I have leveraged technical skills of data science to inform desing and policy based on data analysis and visualization.\nMore recently, I have been collaborating with open source projects with PySAL devs (Python Spatial Analysis Libraries).\nAcademic activities are also a complementary part of my professional development. I am a frequent (virtual) lecturer at Universidad de los Andes (COL) and I often collaborate with professors at UCA Carnterbury (UK) and Universidad Nacional del Litoral (ARG)."
+    "text": "Welcome to my website—a dynamic workspace where I not only share insights and findings from my work but also reflect on the journey that shapes my daily efforts. As an ongoing project, this site serves both as a repository for my professional contributions and as a canvas for my evolving thoughts on how we interact with the spaces around us."
   },
   {
     "objectID": "about.html#mission",
@@ -86,14 +86,14 @@
     "href": "index.html",
     "title": "Greg Maya",
     "section": "",
-    "text": "We shape spaces as much as they shape us. The routes we use, our preferred locations, what we see, and who we encounter not only create isolated experiences but also reinforce collective habits.\nThe design of our buildings and cities are, more often than not, based on hopes rather than post-occupancy studies. By surfacing information about the built environment, one can expect more human-center designs and create an information loop that constantly feeds spatial decision-making pipelines."
+    "text": "I’m Gregorio Maya, City Science Coordinator at the Norman Foster Institute and a freelance consultant for various NGOs. Trained as an architect with a Summa Cum Laude degree, I’ve pivoted from traditional design to focus on the data-driven aspects of urban environments. My passion lies in analyzing spatial configurations to understand behavioral dynamics within built spaces, often applying principles of behavioral economics to enhance both client engagements and design outcomes.\nIn my role, I co-lecture in Urban Analytics and lead the technical development of sustainability tools for cities. As a Tableau-certified analyst proficient in open-source tools like Python, QGIS, and PostgreSQL, I contribute to creating sustainable urban solutions. My work involves mentoring the next generation of urban analysts, leading digital projects that integrate data science with urban design, and consulting for NGOs, providing insights that promote sustainable and effective urban development.\nI maintain active academic ties not only with my alma maters, The Bartlett-UCL (UK) and Universidad de los Andes (COL), but also by collaborating closely with professors at UCA Canterbury (UK) and Universidad Nacional del Litoral (ARG)."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Greg Maya",
     "section": "",
-    "text": "We shape spaces as much as they shape us. The routes we use, our preferred locations, what we see, and who we encounter not only create isolated experiences but also reinforce collective habits.\nThe design of our buildings and cities are, more often than not, based on hopes rather than post-occupancy studies. By surfacing information about the built environment, one can expect more human-center designs and create an information loop that constantly feeds spatial decision-making pipelines."
+    "text": "I’m Gregorio Maya, City Science Coordinator at the Norman Foster Institute and a freelance consultant for various NGOs. Trained as an architect with a Summa Cum Laude degree, I’ve pivoted from traditional design to focus on the data-driven aspects of urban environments. My passion lies in analyzing spatial configurations to understand behavioral dynamics within built spaces, often applying principles of behavioral economics to enhance both client engagements and design outcomes.\nIn my role, I co-lecture in Urban Analytics and lead the technical development of sustainability tools for cities. As a Tableau-certified analyst proficient in open-source tools like Python, QGIS, and PostgreSQL, I contribute to creating sustainable urban solutions. My work involves mentoring the next generation of urban analysts, leading digital projects that integrate data science with urban design, and consulting for NGOs, providing insights that promote sustainable and effective urban development.\nI maintain active academic ties not only with my alma maters, The Bartlett-UCL (UK) and Universidad de los Andes (COL), but also by collaborating closely with professors at UCA Canterbury (UK) and Universidad Nacional del Litoral (ARG)."
   },
   {
     "objectID": "work/data_viz/jgraphs.html",
