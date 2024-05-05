@@ -1,0 +1,39 @@
+---
+title: "Talks"
+---
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+## FADU - ARG
+
+**Universidad Nacional del Litoral**
+
+[Facultad de Arquitectura, Diseño y Urbanismo](https://www.fadu.unl.edu.ar/)
+
+<iframe width="100%" src="https://www.youtube.com/embed/1yZJfC19vVY?si=WJHFZttT-in4DWiR&amp;start=26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+June 2023   |   Spanish |   Remote
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+
+## UNIANDES - COL
+
+**Universidad de los Andes**
+
+[Facultad de Arquitectura y Diseño](https://arqdis.uniandes.edu.co/)
+
+<iframe src="https://player.vimeo.com/video/224347341?h=b81186087a" width="100%"frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+November 2018   |   Spanish |   On-site
+
+:::
+
+::::
