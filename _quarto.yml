@@ -18,7 +18,7 @@ website:
         href: services/index_services.qmd
 
   sidebar:
-      title: Works
+      #title: Works
       style: "docked"
       border: false
       collapse-level: 1
