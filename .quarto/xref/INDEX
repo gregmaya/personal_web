@@ -58,5 +58,10 @@
   },
   "work/archi/bru.qmd": {
     "bru.html": "3f958b10"
+  },
+  "my_cv.qmd": {
+    "my_cv.tex": "9cc8c82a",
+    "my_cv.html": "cbbcb5ad",
+    "my_cv.pdf": "da3c723f"
   }
 }

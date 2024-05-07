@@ -1,0 +1,157 @@
+---
+title: "Curriculum Vitae"
+sidebar: false
+format:
+  html:
+    toc: false
+    toc-location: right
+  pdf:
+    author: Greg Maya
+#    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+Madrid gregoriomaya@gmail.com
+<br> [Porfolio](https://gregmaya.github.io/personal_web/)
+:::
+
+Passionate professional with 9 years of experience delivering high-impact work in the built environment. Trained as an Architect, develop skills in strong internal and external relationships to facilitate the cooperative achievement of high-priority goals. Confident in my ability to thrive in a fast-paced environment where I leverage skills in lecturing, product development, data analysis, and research. Committed to lifelong learning and going the extra mile to facilitate continuous improvement for myself and my colleagues.
+
+## Skills 
+
+:::: {.columns}
+
+::: {.column width="45%"}
+- Tableau (Certified)
+- QGIS
+- SQL (PostSQL)
+- Python
+- Jupyter notebooks
+- GIT
+- Figma
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+:::{.column width=45%"}
+
+::: {.callout}
+- Spanish 
+[<small>native</small>]{.cvdate}
+- English
+[<small>biligual</small>]{.cvdate}
+- French
+[<small>professional</small>]{.cvdate}
+- Portuguese 
+[<small>conversational</small>]{.cvdate}
+:::
+
+:::
+
+::::
+
+## Experience
+
+### City Science Coordinator
+
+***Norman Foster Institute*** | Madrid [June 2023 -- Present]{.cvdate}
+
+As part of the in-house staff of the Master in Sustainable Cities, my main responsabilities include the co-creation of the Urban Analytics lesson and the development of the _City Pulse_ -a multi-user app for diagnosing sustanability targets.
+
+- Maintining client relationships with 3 city administrations : Athens, Bilbao and San Marino. Consultancy model to deliver actionable projects.
+- Co-creation of 16-week GIS course and subsequent lab support for 24 scholars. From Open source softwares (QGIS, PostGIS), through Python based notebooks to user friendly web-apps
+
+### Data Consultant
+
+***Freelance, Multiple Clients*** | World [2021 -- Present]{.cvdate}
+
+Providing data collection, pre-processing, exploratory analysis and modelling services to clients (Private and NGOs) in their R&D stages of developing data driven products. Projects include:
+
+-  **Article 19 Global Expression Report**: internal transformation of a proprietary index report into a digital product that embraces modern data management and delivery. Currently with over 500K views in embeded [website](https://www.globalexpressionreport.org/).
+- **Accesnture & JLR** : daily database updates with 120+ country wide post-sales managers. Optimising pipelines for Tableau dashboards with dynamic views based on custom profiles; delivery to emails.
+- **ACASA** : asseses their current pipelines and to create a pipeline for a _spatially-aware_ pricing index for faster response to clients and new business avenues. Reduced initial delivery times 7 fold (from weekly to less than 1hour)
+
+### Spatial Intelligence Lead
+
+***SENSE_*** | London [Nov 2018 -- May 2022]{.cvdate}
+
+Main responsibilities included the translation of business goals into innovative metrics for clients. Create the unit of data analysis that delivers the business's unique selling point -_USP_.
+
+- Interpret and deliver domain expertise in the Architectural, Design, and Construction (AEC) industry to the internal technical team.
+- Create a pipeline of future feature developments based on sophisticated data modeling techniques.
+
+### Urban Consultant
+
+***Space Syntax Lmtd.*** | London [Sept 2016 -- Oct 2018]{.cvdate}
+
+Advise and support of local authorities and large-scale private developers of the urban environments in London, China, and Kazakhstan.
+
+- Create models for assessing new layouts with measures of urban centrality and connectivity.
+- Recreate internal GIS processes for faster and more accurate delivery of reports.
+
+
+## Education{style="page-break-before: always"}
+
+**MSc Spatial Intelligence: Space Syntax** <br> UCL - The Bartlett <small>(UK)</small>  [*2015 -- 2016*]{.cvdate}
+<br><small>Honours degree</small>
+
+**Bachelor in Architecture** <br> Universidad de los Andes <small>(COL)</small>  [*2008 -- 2013*]{.cvdate}
+<br><small>Summa Cum Laude Laureate</small>
+
+**Swiss Matura & Colombian High School Diploma** <br> Colegio Helvetia de Bogota <small>(COL)</small>  [*2007*]{.cvdate}
+
+---
+
+#### Courses
+:::: {.columns}
+
+::: {.column width="30%"}
+**Product Management**
+<br> _NOVA<br>Madrid_ | 2023
+
+:::
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+:::{.column width="30%"}
+**Data Science**
+<br>_GENERAL ASSEMBLY<br>London_ | 2019
+
+:::
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+:::{.column width="30%"}
+**Python 3**
+<br>_CODE ACADEMY<br>London_ | 2018
+
+:::
+::::
+
+## Others
+
+- **MOMEPY collaborator**
+<br>Google Summer of Code contributor grant [*2022*]{.cvdate}
+
+- **R. Salmona Fellowship**
+<br>British Council research grant [*2019*]{.cvdate}
+
+- **Frequent lecturer:**
+<br>UNIANDES (COL) | UCA Canterbury (UK) | FADU - UNL (ARG)
+
+<!---
+::: {.no-print}
+## Some title
+:::
+-->
+::: {.print-only}
+---
+
+## References
+Available upon request
+:::

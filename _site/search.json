@@ -179,7 +179,7 @@
     "href": "work/others/talks.html",
     "title": "Talks",
     "section": "",
-    "text": "FADU - ARG\nUniversidad Nacional del Litoral\nJune 2023 | Spanish | Remote\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\n\n\n\nUNIANDES - COL\nUniversidad de los Andes\nFacultad de Arquitectura y Diseño\n\nNovember 2018 | Spanish | On-site"
+    "text": "FADU - ARG\nUniversidad Nacional del Litoral\nJune 2023 | Spanish | Remote\nFacultad de Arquitectura, Diseño y Urbanismo\n\n\n\n\nUNIANDES - COL\nUniversidad de los Andes\nNovember 2018 | Spanish | On-site\nFacultad de Arquitectura y Diseño\n\n\n\nSpace Syntax, movimiento e interacción por Gregorio Maya from Arquitectura y Diseño - UNIANDES on Vimeo."
   },
   {
     "objectID": "work/others/talks.html#fadu---arg",
@@ -208,5 +208,61 @@
     "title": "Building Research Unit (BRU)",
     "section": "",
     "text": "develop publishable content"
+  },
+  {
+    "objectID": "my_cv.html",
+    "href": "my_cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Madrid gregoriomaya@gmail.com  Porfolio\nPassionate professional with 9 years of experience delivering high-impact work in the built environment. Trained as an Architect, develop skills in strong internal and external relationships to facilitate the cooperative achievement of high-priority goals. Confident in my ability to thrive in a fast-paced environment where I leverage skills in lecturing, product development, data analysis, and research. Committed to lifelong learning and going the extra mile to facilitate continuous improvement for myself and my colleagues."
+  },
+  {
+    "objectID": "my_cv.html#education",
+    "href": "my_cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nMSc Spatial Intelligence: Space Syntax  UCL - The Bartlett (UK) 2015 – 2016 Honours degree\nBachelor in Architecture  Universidad de los Andes (COL) 2008 – 2013 Summa Cum Laude Laureate\nSwiss Matura & Colombian High School Diploma  Colegio Helvetia de Bogota (COL) 2007\n\n\nCourses\n\n\nProduct Management  NOVAMadrid | 2023\n\n\n\nData Science GENERAL ASSEMBLYLondon | 2019\n\n\n\nPython 3 CODE ACADEMYLondon | 2018"
+  },
+  {
+    "objectID": "my_cv.html#work-experience",
+    "href": "my_cv.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nData Scientist\nFreelance, Multiple Clients Jan 2020 – June 2021\nProviding data collection, pre-processing, exploratory analysis and modelling services to clients in the early R&D stages of developing data driven products. Projects include:\n\nData description and preliminary product feasibility insights for a start-up real estate bond platform; including assessing suitability of various property transaction databases for use in initial product prototype.\nDevelopment of statistical anomaly detection regimes and key historical insights from internet quality time-series data for use in parametric insurance products, including documenting analysis tools in an R package."
+  },
+  {
+    "objectID": "my_cv.html#presentations-and-workshops",
+    "href": "my_cv.html#presentations-and-workshops",
+    "title": "Curriculum Vitae",
+    "section": "Presentations and Workshops",
+    "text": "Presentations and Workshops\n\nTalk:"
+  },
+  {
+    "objectID": "my_cv.html#references",
+    "href": "my_cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
+  },
+  {
+    "objectID": "my_cv.html#experience",
+    "href": "my_cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nCity Science Coordinator\nNorman Foster Institute | Madrid June 2023 – Present\nAs part of the in-house staff of the Master in Sustainable Cities, my main responsabilities include the co-creation of the Urban Analytics lesson and the development of the City Pulse -a multi-user app for diagnosing sustanability targets.\n\nMaintining client relationships with 3 city administrations : Athens, Bilbao and San Marino. Consultancy model to deliver actionable projects.\nCo-creation of 16-week GIS course and subsequent lab support for 24 scholars. From Open source softwares (QGIS, PostGIS), through Python based notebooks to user friendly web-apps\n\n\n\nData Consultant\nFreelance, Multiple Clients | World 2021 – Present\nProviding data collection, pre-processing, exploratory analysis and modelling services to clients (Private and NGOs) in their R&D stages of developing data driven products. Projects include:\n\nArticle 19 Global Expression Report: internal transformation of a proprietary index report into a digital product that embraces modern data management and delivery. Currently with over 500K views in embeded website.\nAccesnture & JLR : daily database updates with 120+ country wide post-sales managers. Optimising pipelines for Tableau dashboards with dynamic views based on custom profiles; delivery to emails.\nACASA : asseses their current pipelines and to create a pipeline for a spatially-aware pricing index for faster response to clients and new business avenues. Reduced initial delivery times 7 fold (from weekly to less than 1hour)\n\n\n\nSpatial Intelligence Lead\nSENSE_ | London Nov 2018 – May 2022\nMain responsibilities included the translation of business goals into innovative metrics for clients. Create the unit of data analysis that delivers the business’s unique selling point -USP.\n\nInterpret and deliver domain expertise in the Architectural, Design, and Construction (AEC) industry to the internal technical team.\nCreate a pipeline of future feature developments based on sophisticated data modeling techniques.\n\n\n\nUrban Consultant\nSpace Syntax Lmtd. | London Sept 2016 – Oct 2018\nAdvise and support of local authorities and large-scale private developers of the urban environments in London, China, and Kazakhstan.\n\nCreate models for assessing new layouts with measures of urban centrality and connectivity.\nRecreate internal GIS processes for faster and more accurate delivery of reports."
+  },
+  {
+    "objectID": "my_cv.html#others",
+    "href": "my_cv.html#others",
+    "title": "Curriculum Vitae",
+    "section": "Others",
+    "text": "Others\n\nMOMEPY collaborator Google Summer of Code contributor grant 2022\nR. Salmona Fellowship British Council research grant 2019\nFrequent lecturer: UNIANDES (COL) | UCA Canterbury (UK) | FADU - UNL (ARG)\n\n\n\n\n\nReferences\nAvailable upon request"
+  },
+  {
+    "objectID": "my_cv.html#skills",
+    "href": "my_cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nTableau (Certified)\nQGIS\nSQL (PostSQL)\nPython\nJupyter notebooks\nGIT\nFigma\n\n\n\n\n\n\n\n\n\n\n\nSpanish native\nEnglish biligual\nFrench professional\nPortuguese conversational"
   }
 ]

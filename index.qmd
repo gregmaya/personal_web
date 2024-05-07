@@ -1,7 +1,7 @@
 ---
 title: "Greg Maya"
 sidebar: false
-image: greg_avatar.png
+image: avatar_nfi.png
 about:
   template: solana
   links:
@@ -20,6 +20,9 @@ about:
     - text: Email
       icon: envelope-fill
       url: "mailto:gregoriomaya+site@gmail.com"
+    - text: CV
+      icon: download
+      href: my_cv.qmd
       
 ---
 
