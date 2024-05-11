@@ -18,7 +18,7 @@ website:
         href: services/index_services.qmd
 
   sidebar:
-      #title: Works
+      title: Works
       style: "docked"
       border: false
       collapse-level: 1
@@ -49,9 +49,10 @@ website:
         - text: "Articles"
           href: work/others/articles.qmd
       
-  
   page-footer:
+    left: "<a href='my_cv.html'>Curriculum Vitae</a>"
     center: "© Copyright 2024 Greg Maya. Except where otherwise noted. All text and images licensed CC-BY-NC 4.0."
+
 format:
   html:
     theme: 
