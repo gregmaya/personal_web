@@ -18,7 +18,7 @@ website:
         href: services/index_services.qmd
 
   sidebar:
-      title: Works
+      #title: Works
       style: "docked"
       border: false
       collapse-level: 1
@@ -30,7 +30,7 @@ website:
         - text: "Article 19"
           href : work/data_viz/article19.qmd
         - text: "End Child Poverty"
-          href : work/data_viz/end_ch_poverty.qm
+          href : work/data_viz/end_ch_poverty.qmd
       
       - section: "Urban Planning"
         contents: 
@@ -50,8 +50,8 @@ website:
           href: work/others/articles.qmd
       
   page-footer:
-    left: "<a href='my_cv.html'>Curriculum Vitae</a>"
-    center: "© Copyright 2024 Greg Maya. Except where otherwise noted. All text and images licensed CC-BY-NC 4.0."
+    left: "--> <a href='my_cv.qmd'><u>`Curriculum Vitae`</u></a>"
+    right: "© Copyright 2024 Greg Maya. Except where otherwise noted. All text and images licensed CC-BY-NC 4.0."
 
 format:
   html:

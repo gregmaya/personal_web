@@ -15,6 +15,8 @@ Welcome to my website —a space where I share highlights from my work as well a
 
 We shape spaces as much as they shape us. The routes we use, our preferred locations, what we see, and who we encounter not only create isolated experiences but also reinforce collective habits.
 
+`U+0420`
+
 The design of our buildings and cities are, more often than not, based on hopes rather than post-occupancy studies. By surfacing information about the built environment, one can expect more human-center designs and create an information loop that constantly feeds spatial decision-making pipelines.
 
 
