@@ -22,11 +22,10 @@ I use an array of tools depending on the needs. Yes, my preferance is usually to
 
 **Python**, **PostGIS - SQL**, [**Tableau**](https://www.credly.com/badges/d368cdea-2e12-4bee-900e-0c9dd3d58469), **QGIS**, [**Isovists**](https://isovists.org/), **Gephi**, to name a few...
 
-### 
-
 :::: {.column-page}
 ----
-### <!-- empty to create some space -->
+#### Worked with:
+
 ::: {.column width="16%"}
 ![](images/smart-city.png){height=70px fig-align="centre"}
 
