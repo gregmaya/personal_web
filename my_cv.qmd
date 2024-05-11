@@ -6,60 +6,53 @@ format:
     toc: false
     toc-location: right
   pdf:
-    author: Greg Maya
-#    pdf-engine: weasyprint
+    author: Gregorio Maya
+    pdf-engine: xelatex #pdflatex
 css: cv.css
 format-links: [pdf]
 ---
 
-::: {.print-only .contact-block}
-Madrid gregoriomaya@gmail.com
-<br> [Porfolio](https://gregmaya.github.io/personal_web/)
+::: {.print-only}
+#### Location-Based Problem Solving
+<br>gregoriomaya@gmail.com<br>[Porfolio](https://gregmaya.github.io/personal_web/)
+
 :::
 
-Passionate professional with 9 years of experience delivering high-impact work in the built environment. Trained as an Architect, develop skills in strong internal and external relationships to facilitate the cooperative achievement of high-priority goals. Confident in my ability to thrive in a fast-paced environment where I leverage skills in lecturing, product development, data analysis, and research. Committed to lifelong learning and going the extra mile to facilitate continuous improvement for myself and my colleagues.
+Passionate professional with 9+ years of experience delivering high-impact work in the built environment. Trained as an Architect, develop skills in strong internal and external relationships to facilitate the cooperative achievement of high-priority goals. Confident in my ability to thrive in a fast-paced environment where I leverage skills in lecturing, product development, data analysis, and research. Committed to lifelong learning and going the extra mile to facilitate continuous improvement for myself and my colleagues.
 
-## Skills 
+___
 
 :::: {.columns}
+::: {.column}
+<h3 style="text-align:center">Skills</h3>
 
-::: {.column width="45%"}
 - Tableau (Certified)
 - QGIS
 - SQL (PostSQL)
 - Python
-- Jupyter notebooks
-- GIT
-- Figma
+- VsCode
 
 :::
+::: {.column}
+<h3 style="text-align:center">Languages</h3>
 
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-:::{.column width=45%"}
-
-::: {.callout}
-- Spanish 
+- Spanish
 [<small>native</small>]{.cvdate}
 - English
 [<small>biligual</small>]{.cvdate}
 - French
 [<small>professional</small>]{.cvdate}
-- Portuguese 
+- Portuguese
 [<small>conversational</small>]{.cvdate}
-:::
 
 :::
-
 ::::
 
-## Experience
+<h2 style="text-align:center">Experience</h2>
 
 ### City Science Coordinator
 
-***Norman Foster Institute*** | Madrid [June 2023 -- Present]{.cvdate}
+[***Norman Foster Institute***](https://normanfosterinstitute.org/) | Madrid [June 2023 -- Present]{.cvdate}
 
 As part of the in-house staff of the Master in Sustainable Cities, my main responsabilities include the co-creation of the Urban Analytics lesson and the development of the _City Pulse_ -a multi-user app for diagnosing sustanability targets.
 
@@ -78,7 +71,7 @@ Providing data collection, pre-processing, exploratory analysis and modelling se
 
 ### Spatial Intelligence Lead
 
-***SENSE_*** | London [Nov 2018 -- May 2022]{.cvdate}
+[***SENSE***](https://www.sensespace.com/) | London [Nov 2018 -- May 2022]{.cvdate}
 
 Main responsibilities included the translation of business goals into innovative metrics for clients. Create the unit of data analysis that delivers the business's unique selling point -_USP_.
 
@@ -87,15 +80,14 @@ Main responsibilities included the translation of business goals into innovative
 
 ### Urban Consultant
 
-***Space Syntax Lmtd.*** | London [Sept 2016 -- Oct 2018]{.cvdate}
+[***Space Syntax Lmtd***](https://spacesyntax.com/) | London [Sept 2016 -- Oct 2018]{.cvdate}
 
 Advise and support of local authorities and large-scale private developers of the urban environments in London, China, and Kazakhstan.
 
 - Create models for assessing new layouts with measures of urban centrality and connectivity.
 - Recreate internal GIS processes for faster and more accurate delivery of reports.
 
-
-## Education{style="page-break-before: always"}
+<h2 style="text-align:center">Education</h2>
 
 **MSc Spatial Intelligence: Space Syntax** <br> UCL - The Bartlett <small>(UK)</small>  [*2015 -- 2016*]{.cvdate}
 <br><small>Honours degree</small>
@@ -112,7 +104,7 @@ Advise and support of local authorities and large-scale private developers of th
 
 ::: {.column width="30%"}
 **Product Management**
-<br> _NOVA<br>Madrid_ | 2023
+<br> _NOVA<br> Madrid_ | 2023
 
 :::
 ::: {.column width="5%"}
@@ -120,7 +112,7 @@ Advise and support of local authorities and large-scale private developers of th
 :::
 :::{.column width="30%"}
 **Data Science**
-<br>_GENERAL ASSEMBLY<br>London_ | 2019
+<br>_GENERAL ASSEMBLY<br> London_ | 2019
 
 :::
 ::: {.column width="5%"}
@@ -128,12 +120,12 @@ Advise and support of local authorities and large-scale private developers of th
 :::
 :::{.column width="30%"}
 **Python 3**
-<br>_CODE ACADEMY<br>London_ | 2018
+<br>_CODE ACADEMY<br> London_ | 2018
 
 :::
 ::::
 
-## Others
+<h2 style="text-align:center">Others</h2>
 
 - **MOMEPY collaborator**
 <br>Google Summer of Code contributor grant [*2022*]{.cvdate}
@@ -144,14 +136,9 @@ Advise and support of local authorities and large-scale private developers of th
 - **Frequent lecturer:**
 <br>UNIANDES (COL) | UCA Canterbury (UK) | FADU - UNL (ARG)
 
-<!---
-::: {.no-print}
-## Some title
-:::
--->
 ::: {.print-only}
 ---
 
-## References
+#### References
 Available upon request
 :::

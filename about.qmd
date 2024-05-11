@@ -3,10 +3,14 @@ title: "Location-Based Problem Solving"
 sidebar: false
 about:
   template: trestles
+  links: 
+    - text: CV
+      icon: person-check-fill
+      href: my_cv.qmd
 ---
 
 ::: {.callout}
-Welcome to my website—a dynamic workspace where I not only share insights and findings from my work but also reflect on the journey that shapes my daily efforts. As an ongoing project, this site serves both as a repository for my professional contributions and as a canvas for my evolving thoughts on how we interact with the spaces around us. 
+Welcome to my website—a space where I share highlights from my work as well as reflect on the journey shaped by my daily efforts. As an ongoing project, this site serves both as a repository for my professional contributions and as a canvas for my evolving thoughts on how we interact with the spaces around us. 
 :::
 
 #### Framewok
@@ -35,10 +39,3 @@ A built-environemnt industry that embraces the opportunities that lie in space t
 :::
 
 ::::
-
-## Languages
-
-- Spanish (native)
-- English (100% fluent)
-- French (100% fluent)
-- Portuguese (conversational)

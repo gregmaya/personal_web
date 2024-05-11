@@ -10,7 +10,7 @@ June 2023   |   Spanish |   Remote
 
 [Facultad de Arquitectura, Diseño y Urbanismo](https://www.fadu.unl.edu.ar/)
 
-{{< video https://www.youtube.com/embed/1yZJfC19vVY?si=WJHFZttT-in4DWiR&amp;start=26 >}}
+{{< video https://www.youtube.com/embed/1yZJfC19vVY?si=WJHFZttT-in4DWiR&amp;start=0 >}}
 
 _______
 
@@ -23,4 +23,3 @@ November 2018   |   Spanish |   On-site
 [Facultad de Arquitectura y Diseño](https://arqdis.uniandes.edu.co/)
 
 <iframe src="https://player.vimeo.com/video/224347341?h=b81186087a" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/224347341">Space Syntax, movimiento e interacci&oacute;n por Gregorio Maya</a> from <a href="https://vimeo.com/arqdisuniandes">Arquitectura y Dise&ntilde;o - UNIANDES</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -20,15 +20,12 @@ about:
     - text: Email
       icon: envelope-fill
       url: "mailto:gregoriomaya+site@gmail.com"
-    - text: CV
-      icon: download
-      href: my_cv.qmd
       
 ---
 
 ## Bio
 
-I'm Gregorio Maya, **City Science Coordinator** at the [Norman Foster Institute](https://normanfosterinstitute.org/) and a freelance consultant for various NGOs. Trained as an architect with a _Summa Cum Laude_ degree, I've pivoted from traditional design to focus on the **data-driven aspects of urban environments**. My passion lies in analyzing spatial configurations to understand behavioral dynamics within built spaces, often applying principles of behavioral economics to enhance both client engagements and design outcomes.
+I am Gregorio Maya, **City Science Coordinator** at the [Norman Foster Institute](https://normanfosterinstitute.org/) and a freelance consultant for various NGOs. Trained as an architect with a _Summa Cum Laude_ degree, I have pivoted from traditional design to focus on the **data-driven aspects of urban environments**. My passion lies in analyzing spatial configurations to understand behavioral dynamics within built spaces, often applying principles of behavioral economics to enhance both client engagements and design outcomes.
 
 In my role, I co-lecture in Urban Analytics and lead the technical development of sustainability tools for cities. As a Tableau-certified analyst proficient in open-source tools like Python, QGIS, and PostgreSQL, I contribute to creating sustainable urban solutions. My work involves mentoring the next generation of urban analysts, leading digital projects that **integrate data science with urban design**, and consulting for NGOs, providing insights that promote sustainable and effective urban development.
 
