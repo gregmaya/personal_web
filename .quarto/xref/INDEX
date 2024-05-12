@@ -63,5 +63,35 @@
     "my_cv.tex": "9cc8c82a",
     "my_cv.html": "cbbcb5ad",
     "my_cv.pdf": "da3c723f"
+  },
+  "work/data_viz/jgraph.ipynb": {
+    "jgraph.html": "ec0e291c"
+  },
+  "geo_env/lib/python3.10/site-packages/httpcore-1.0.5.dist-info/licenses/LICENSE.md": {
+    "LICENSE.html": "2e10aa0d"
+  },
+  "geo_env/lib/python3.10/site-packages/QtPy-2.4.1.dist-info/AUTHORS.md": {
+    "AUTHORS.html": "f9a62228"
+  },
+  "geo_env/lib/python3.10/site-packages/pyzmq-26.0.3.dist-info/licenses/LICENSE.md": {
+    "LICENSE.html": "a14b7b93"
+  },
+  "geo_env/lib/python3.10/site-packages/numpy/random/LICENSE.md": {
+    "LICENSE.html": "b3d78212"
+  },
+  "geo_env/lib/python3.10/site-packages/libpysal/cg/tests/fast_point_in_polygon_algorithm.ipynb": {
+    "fast_point_in_polygon_algorithm.html": "71320e15"
+  },
+  "geo_env/lib/python3.10/site-packages/soupsieve-2.5.dist-info/licenses/LICENSE.md": {
+    "LICENSE.html": "42825f9c"
+  },
+  "geo_env/lib/python3.10/site-packages/idna-3.7.dist-info/LICENSE.md": {
+    "LICENSE.html": "55094cab"
+  },
+  "geo_env/lib/python3.10/site-packages/matplotlib/backends/web_backend/nbagg_uat.ipynb": {
+    "nbagg_uat.html": "27a5ba7f"
+  },
+  "geo_env/lib/python3.10/site-packages/httpx-0.27.0.dist-info/licenses/LICENSE.md": {
+    "LICENSE.html": "78cdb609"
   }
 }

@@ -50,13 +50,13 @@ website:
           href: work/others/articles.qmd
       
   page-footer:
-    left: "--> <a href='my_cv.qmd'><u>`Curriculum Vitae`</u></a>"
+    left: "<a href='my_cv.html'>Curriculum Vitae</a>"
     right: "© Copyright 2024 Greg Maya. Except where otherwise noted. All text and images licensed CC-BY-NC 4.0."
 
 format:
   html:
     theme: 
-      light: flatly # sandstone cosmo
+      light: flatly
       dark: darkly
     css: styles.css 
 execute:
