@@ -26,7 +26,7 @@ website:
       - section: "Data Visualisation"
         contents: 
         - text: "J-Graphs"
-          href : work/data_viz/jgraphs.qmd
+          href : work/data_viz/jgraph.ipynb
         - text: "Article 19"
           href : work/data_viz/article19.qmd
         - text: "End Child Poverty"
@@ -60,4 +60,7 @@ format:
       dark: darkly
     css: styles.css 
 execute:
+  engine: jupyter-python
+  kernel: python3
+  path: geo_env/bin/python  # Adjust this path according to your setup
   freeze: auto

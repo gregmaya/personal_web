@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: momepy
+Version: 0.7.0
+Summary: Urban Morphology Measuring Toolkit
+Author-email: Martin Fleischmann <martin@martinfleischmann.net>
+Maintainer: momepy contributors
+License: BSD 3-Clause
+Project-URL: Home, http://momepy.org
+Project-URL: Repository, https://github.com/pysal/momepy
+Keywords: urban morphology,urban morphometrics,tessellation
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: GIS
+Requires-Python: >=3.10
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: geopandas >=0.12.0
+Requires-Dist: libpysal >=4.6.0
+Requires-Dist: networkx >=2.7
+Requires-Dist: packaging
+Requires-Dist: pandas !=1.5.0
+Requires-Dist: shapely >=2
+Requires-Dist: tqdm >=4.63.0
+
+Momepy (Morphological Measuring in Python) is a library for
+quantitative analysis of urban form - urban morphometrics. It is
+part of `PySAL`_ (Python Spatial Analysis Library) and is built on top
+of `GeoPandas`_, other PySAL modules, and
+`networkX`_.
+
+.. _PySAL: http://pysal.org
+.. _GeoPandas: http://geopandas.org
+.. _networkX : http://networkx.github.io
