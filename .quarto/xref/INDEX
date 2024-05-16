@@ -93,5 +93,8 @@
   },
   "geo_env/lib/python3.10/site-packages/httpx-0.27.0.dist-info/licenses/LICENSE.md": {
     "LICENSE.html": "78cdb609"
+  },
+  "test_delete.qmd": {
+    "test_delete.html": "1819016a"
   }
 }

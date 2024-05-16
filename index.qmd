@@ -8,18 +8,23 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://linkedin.com/in/gregoriomaya"
+      target: _blank
     - text: GitHub
       icon: github
       url: "https://github.com/gregmaya"
+      target: _blank
     - text: Tableau
       icon: graph-up
       url: "https://public.tableau.com/app/profile/gregorio.maya/vizzes"
+      target: _blank
     - text: X
       icon: twitter
       url: "https://twitter.com/G_Maya_P"
+      target: _blank
     - text: Email
       icon: envelope-fill
       url: "mailto:gregoriomaya+site@gmail.com"
+      target: _blank
       
 ---
 
