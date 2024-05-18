@@ -59,7 +59,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
@@ -88,6 +88,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -137,7 +140,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../work/data_viz/jgraph.html">Data Visualisation</a></li><li class="breadcrumb-item"><a href="../../work/data_viz/jgraph.html">J-Graphs</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Data Visualisation</li><li class="breadcrumb-item"><a href="../../work/data_viz/jgraph.html">J-Graphs</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -158,6 +161,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+ <span class="menu-text">NFI - City Pulse</span>
+  </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../work/data_viz/jgraph.html" class="sidebar-item-text sidebar-link active">
@@ -188,11 +194,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
+ <span class="menu-text">Jilin squares</span>
+  </li>
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../work/urban/rab_simpl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Roundabout Simplification</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+ <span class="menu-text">Paddington navigation &amp; Placemanking</span>
+  </li>
+          <li class="sidebar-item">
+ <span class="menu-text">Bogota early diagnosis</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -205,11 +220,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
+ <span class="menu-text">ASOS Studios</span>
+  </li>
+          <li class="sidebar-item">
+ <span class="menu-text">Legal &amp; General (L&amp;G)</span>
+  </li>
+          <li class="sidebar-item">
+ <span class="menu-text">Southback Center - workplace</span>
+  </li>
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../work/archi/bru.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Building Research Unit</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+ <span class="menu-text">Sense of Place @ TATE Modern</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -244,7 +271,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../work/data_viz/jgraph.html">Data Visualisation</a></li><li class="breadcrumb-item"><a href="../../work/data_viz/jgraph.html">J-Graphs</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Data Visualisation</li><li class="breadcrumb-item"><a href="../../work/data_viz/jgraph.html">J-Graphs</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">J-Graphs</h1>
 </div>
@@ -282,108 +309,202 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <hr>
 <section id="setup" class="level4">
 <h4 class="anchored" data-anchor-id="setup">Setup</h4>
-<p>Let’s load neccesary libraries and core functions before we look at some examples</p>
+<p>Let’s load neccesary libraries and core function before we look one example</p>
 <div id="cell-3" class="cell" data-execution_count="1">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> networkx <span class="im">as</span> nx</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> itertools <span class="im">import</span> count</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.colors <span class="im">as</span> mcolors</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> jgraph_from_multiple_origins(G, origins, fig_size<span class="op">=</span>(<span class="dv">10</span>, <span class="dv">4</span>)):</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="co">"""</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">    Draws a Justified graph (J-graph) from multiple origins with a gradient color range.</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">    Handles both a list of origins or a single origin by treating it as a list.</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">    </span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">    Parameters:</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">    G (networkx.Graph): The graph to visualize.</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">    origins: A single origin or a list of origin nodes for path calculations.</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co">    fig_size (tuple): The dimensions for the figure size (width, height).</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="co">    </span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co">    Returns:</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="co">    None: Displays the graph visualization with a gradient color scale.</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="co">    """</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Ensure origins is a list even if a single node is provided</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="kw">not</span> <span class="bu">isinstance</span>(origins, <span class="bu">list</span>):</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>        origins <span class="op">=</span> [origins]</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Initialize dictionary to keep the shortest paths from any origins</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>    min_path_lengths <span class="op">=</span> {}</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Calculate shortest paths from each origin and update the minimum path length</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> origin <span class="kw">in</span> origins:</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>        path_lengths <span class="op">=</span> nx.single_source_shortest_path_length(G, source<span class="op">=</span>origin)</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>        <span class="cf">for</span> node, length <span class="kw">in</span> path_lengths.items():</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> node <span class="kw">in</span> min_path_lengths:</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>                min_path_lengths[node] <span class="op">=</span> <span class="bu">min</span>(min_path_lengths[node], length)</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>            <span class="cf">else</span>:</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>                min_path_lengths[node] <span class="op">=</span> length</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Create a new graph to visualize</span></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>    G_vis <span class="op">=</span> nx.Graph()</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Adding nodes with minimum path length as attribute</span></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> node, length <span class="kw">in</span> min_path_lengths.items():</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>        G_vis.add_node(node, steps<span class="op">=</span>length)</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Preserve original edges</span></span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>    G_vis.add_edges_from(G.edges())</span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Use a colormap and normalize based on the max path length for color mapping</span></span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>    max_depth <span class="op">=</span> <span class="bu">max</span>(min_path_lengths.values())</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>    norm <span class="op">=</span> mcolors.Normalize(vmin<span class="op">=</span><span class="dv">0</span>, vmax<span class="op">=</span>max_depth)</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>    cmap <span class="op">=</span> plt.cm.viridis</span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Prepare color values according to the normalized data</span></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>    colors <span class="op">=</span> [cmap(norm(min_path_lengths[node])) <span class="cf">for</span> node <span class="kw">in</span> G_vis.nodes()]</span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Positioning nodes by topological steps</span></span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>    pos <span class="op">=</span> nx.multipartite_layout(G_vis, subset_key<span class="op">=</span><span class="st">'steps'</span>, align<span class="op">=</span><span class="st">'horizontal'</span>, scale<span class="op">=</span><span class="fl">1.75</span>)</span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Drawing the graph</span></span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>    fig, ax <span class="op">=</span> plt.subplots(figsize<span class="op">=</span>fig_size)</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>    nx.draw(G_vis, pos<span class="op">=</span>pos, node_color<span class="op">=</span>colors, with_labels<span class="op">=</span><span class="va">True</span>, node_size<span class="op">=</span><span class="dv">800</span>, ax<span class="op">=</span>ax)</span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Adding a colorbar with correct axis context</span></span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>    sm <span class="op">=</span> plt.cm.ScalarMappable(cmap<span class="op">=</span>cmap, norm<span class="op">=</span>norm)</span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a>    sm.set_array([])</span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a>    plt.colorbar(sm, ax<span class="op">=</span>ax, label<span class="op">=</span><span class="st">'Shortest path length to nearest origin'</span>)</span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Calculating and displaying graph metrics</span></span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a>    mean_depth <span class="op">=</span> <span class="bu">sum</span>(min_path_lengths.values()) <span class="op">/</span> <span class="bu">len</span>(min_path_lengths)</span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="ss">f'Mean depth = </span><span class="sc">{</span>mean_depth<span class="sc">:.2f}</span><span class="ss">'</span>)</span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="ss">f'Maximum topological steps = </span><span class="sc">{</span>max_depth<span class="sc">}</span><span class="ss">'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div id="cell-4" class="cell" data-execution_count="2">
-<details class="code-fold">
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> jgraph_from_node(G, origin):</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="co">"""</span></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co">  Draws the Justified graph (J-graph) from the selected origin.</span></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">  Internally it calculates the shortest topological distance from every node </span><span class="ch">\</span></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="co">  to the defined origin</span></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="co">  RETURNS</span></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co">  ---</span></span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="co">  A visual representation of the JGraph</span></span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="co">  """</span></span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  nodes <span class="op">=</span> G.nodes()</span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>  topo_steps <span class="op">=</span> [nx.shortest_path_length(G, source<span class="op">=</span>origin, target<span class="op">=</span> n) <span class="cf">for</span> n <span class="kw">in</span> nodes]</span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  d <span class="op">=</span> [(n,{<span class="st">'steps'</span>:s}) <span class="cf">for</span> n,s <span class="kw">in</span> <span class="bu">zip</span>(nodes,topo_steps)]</span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>  topo_steps <span class="op">=</span> [nx.shortest_path_length(G, source<span class="op">=</span>origin, target<span class="op">=</span> n) <span class="cf">for</span> n <span class="kw">in</span> nodes]</span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  d <span class="op">=</span> [(n,{<span class="st">'steps'</span>:s}) <span class="cf">for</span> n,s <span class="kw">in</span> <span class="bu">zip</span>(nodes,topo_steps)]</span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  G <span class="op">=</span> nx.Graph()</span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>  G.add_edges_from(edges)</span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>  G.add_nodes_from(d)</span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>  pos <span class="op">=</span> nx.multipartite_layout(G,subset_key<span class="op">=</span><span class="st">'steps'</span>, align<span class="op">=</span><span class="st">'horizontal'</span>,scale<span class="op">=</span><span class="fl">1.75</span>)</span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>  plt.figure(figsize<span class="op">=</span>(<span class="dv">10</span>,<span class="dv">10</span>))</span>
-<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>  nx.draw(G ,pos<span class="op">=</span>pos, </span>
-<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>          with_labels<span class="op">=</span><span class="va">True</span>, </span>
-<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>          node_color<span class="op">=</span><span class="st">'orange'</span>, node_size<span class="op">=</span><span class="dv">800</span>)</span>
-<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>  <span class="bu">print</span>(<span class="st">'Mean depth = '</span><span class="op">+</span> <span class="bu">str</span>(<span class="bu">round</span>(<span class="bu">sum</span>(topo_steps)<span class="op">/</span><span class="bu">len</span>(topo_steps),<span class="dv">2</span>)))</span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>  <span class="bu">print</span>(<span class="st">'Maximum topological steps = '</span><span class="op">+</span> <span class="bu">str</span>(<span class="bu">max</span>(topo_steps)))</span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> mean_depth_calcs(G,graph_output <span class="op">=</span> <span class="va">False</span>):</span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a>  <span class="co">#for loop to calculate all mean depths from all points</span></span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>  mean_depths <span class="op">=</span> []</span>
-<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a>  <span class="cf">for</span> n <span class="kw">in</span> nodes:</span>
-<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a>    topo_steps <span class="op">=</span> [nx.shortest_path_length(G, source<span class="op">=</span>n, target<span class="op">=</span> no) <span class="cf">for</span> no <span class="kw">in</span> nodes]</span>
-<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a>    md <span class="op">=</span> <span class="bu">sum</span>(topo_steps)<span class="op">/</span><span class="bu">len</span>(topo_steps)</span>
-<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a>    mean_depths.append(md)</span>
-<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a>  mean_depth <span class="op">=</span> {n: md <span class="cf">for</span> n,md <span class="kw">in</span> <span class="bu">zip</span>(nodes,mean_depths)}</span>
-<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> graph_output <span class="op">==</span> <span class="va">True</span> :</span>
-<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a>    nx.set_node_attributes(G,mean_depth,name<span class="op">=</span><span class="st">'mean_depth'</span>)</span>
-<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a>    output <span class="op">=</span> G</span>
-<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a>  <span class="cf">else</span> :</span>
-<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>    output <span class="op">=</span> pd.DataFrame.from_dict(mean_depth,orient<span class="op">=</span><span class="st">'index'</span>, columns<span class="op">=</span>[<span class="st">'mean_depth'</span>])</span>
-<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> output</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
+</section>
+<section id="example" class="level4">
+<h4 class="anchored" data-anchor-id="example">Example</h4>
+</section>
+<section id="casa-rio-frio---salmona" class="level2">
+<h2 class="anchored" data-anchor-id="casa-rio-frio---salmona">Casa Rio Frio - Salmona</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div id="cell-6" class="cell" data-execution_count="3">
-<details class="code-fold">
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">#Casa Rio Frio Salmona</span></span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>edges <span class="op">=</span> [(<span class="st">'M'</span>,<span class="st">'L'</span>),(<span class="st">'L'</span>,<span class="st">'K'</span>),(<span class="st">'K'</span>,<span class="st">'Q'</span>),(<span class="st">'O'</span>,<span class="st">'Q'</span>),(<span class="st">'Q'</span>,<span class="st">'P'</span>),(<span class="st">'N'</span>,<span class="st">'Q'</span>),</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'Q'</span>,<span class="st">'C'</span>),(<span class="st">'C'</span>,<span class="st">'E'</span>),(<span class="st">'T'</span>,<span class="st">'R'</span>),(<span class="st">'S'</span>,<span class="st">'R'</span>),(<span class="st">'J'</span>,<span class="st">'B'</span>),(<span class="st">'J'</span>,<span class="st">'F'</span>),</span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'B'</span>,<span class="st">'R'</span>),(<span class="st">'B'</span>,<span class="st">'C'</span>),(<span class="st">'B'</span>,<span class="st">'A'</span>),(<span class="st">'R'</span>,<span class="st">'D'</span>),(<span class="st">'C'</span>,<span class="st">'D'</span>),(<span class="st">'C'</span>,<span class="st">'D'</span>),</span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'C'</span>,<span class="st">'F'</span>),(<span class="st">'G'</span>,<span class="st">'H'</span>),(<span class="st">'G'</span>,<span class="st">'F'</span>),(<span class="st">'F'</span>,<span class="st">'I'</span>),(<span class="st">'A'</span>,<span class="st">'X'</span>),(<span class="st">'D'</span>,<span class="st">'H'</span>),</span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'D'</span>,<span class="st">'X'</span>),(<span class="st">'H'</span>,<span class="st">'X'</span>),(<span class="st">'I'</span>,<span class="st">'X'</span>)]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
+<div class="callout-title-container flex-fill">
+Note
 </div>
-<div id="cell-7" class="cell" data-execution_count="4">
+</div>
+<div class="callout-body-container callout-body">
+<p>Originally this tool was created during my Salmona Residency program in 2019 (Sponsored by the Brithish Council).</p>
+<p>The idea was to create this easy visualization tool to analise several of Salmona’s buildings. This tool was used during several workshops lead on-site, where the concept of graph analysis was introduced to local students and researchers.</p>
+</div>
+</div>
+<section id="the-house" class="level4">
+<h4 class="anchored" data-anchor-id="the-house">The House</h4>
+<p>Located in a nearby rural area of Bogota (Colombia), this house was designed by Rogelio Salmona, for his personal enjoyment. In a nutshell is, it supposed to distill a lot of the design principles he develop throughout the years. In this case we tried to compare the <strong>extent to which his idea of building a house that celebrates the outdoors (in a challenging climate), could be reflcted on the overall configuation of the spaces</strong>.</p>
+<table>
+<tbody><tr>
+<td style="border: none;">
+<img src="images/jgraph_1.png" alt="Layout distribution" style="width:100%; max-height:200px;">
+<div style="text-align:center;">
+Layout Distribution
+</div>
+</td>
+<td style="border: none;">
+<img src="images/jgraph_2.png" alt="Patio 2" style="width:100%; max-height:200px;">
+<div style="text-align:center;">
+Patio 2
+</div>
+</td>
+</tr>
+</tbody></table>
+<p>In <em>syntax</em> literature, the effects of <strong>building cores</strong> -the most ‘connectected’ parts of a building- are commonly studied. According to famous theories (<strong>like the natural movement</strong> - Hiller), it is vital to understand the extent to which said core aligns with the movments of a building. In theory, the more this two are in sync, the more one can presume that the driving force for movement is due to the layout of spaces.</p>
+<p>Yet, in this excercise all it was intended was to Visualize through individual locations, a property of <em>‘depth’</em> of the overall building. The beauty of this methos is that once can easily isolate and compare how two different spaces percieve the whole graph in relative terms from their local origin.</p>
+<p>Hence, one need to begin to identify the units of analysis. Which in this case, I was using <em>concave spaces</em> (spaces where all inner points are mutually visible).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/jgraph_3.png" height="200" class="figure-img"></p>
+<figcaption>Connections based on concave spaces</figcaption>
+</figure>
+</div>
+<div id="cell-6" class="cell" data-execution_count="2">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>G <span class="op">=</span> nx.Graph()</span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>G.add_edges_from(edges)</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="co">#nodes = G.nodes()</span></span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">10</span>,<span class="dv">10</span>))</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>nx.draw(G, with_labels <span class="op">=</span> <span class="va">True</span>, node_color <span class="op">=</span><span class="st">'orange'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">#List of all connections. Future node edges</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>edges <span class="op">=</span> [(<span class="st">'M'</span>,<span class="st">'L'</span>),(<span class="st">'L'</span>,<span class="st">'K'</span>),(<span class="st">'K'</span>,<span class="st">'Q'</span>),(<span class="st">'O'</span>,<span class="st">'Q'</span>),(<span class="st">'Q'</span>,<span class="st">'P'</span>),(<span class="st">'N'</span>,<span class="st">'Q'</span>),</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'Q'</span>,<span class="st">'C'</span>),(<span class="st">'C'</span>,<span class="st">'E'</span>),(<span class="st">'T'</span>,<span class="st">'R'</span>),(<span class="st">'S'</span>,<span class="st">'R'</span>),(<span class="st">'J'</span>,<span class="st">'B'</span>),(<span class="st">'J'</span>,<span class="st">'F'</span>),</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'B'</span>,<span class="st">'R'</span>),(<span class="st">'B'</span>,<span class="st">'C'</span>),(<span class="st">'B'</span>,<span class="st">'A'</span>),(<span class="st">'R'</span>,<span class="st">'D'</span>),(<span class="st">'C'</span>,<span class="st">'D'</span>),(<span class="st">'C'</span>,<span class="st">'D'</span>),</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'C'</span>,<span class="st">'F'</span>),(<span class="st">'G'</span>,<span class="st">'H'</span>),(<span class="st">'G'</span>,<span class="st">'F'</span>),(<span class="st">'F'</span>,<span class="st">'I'</span>),(<span class="st">'A'</span>,<span class="st">'X'</span>),(<span class="st">'D'</span>,<span class="st">'H'</span>),</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>         (<span class="st">'D'</span>,<span class="st">'X'</span>),(<span class="st">'H'</span>,<span class="st">'X'</span>),(<span class="st">'I'</span>,<span class="st">'X'</span>)]</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co">#Create Graph object</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>G <span class="op">=</span> nx.Graph()</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>G.add_edges_from(edges)</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">4</span>,<span class="dv">4</span>))</span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>nx.draw(G, with_labels <span class="op">=</span> <span class="va">True</span>, node_color <span class="op">=</span><span class="st">'grey'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="jgraph_files/figure-html/cell-5-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="jgraph_files/figure-html/cell-3-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 </div>
-<div id="cell-8" class="cell" data-execution_count="5">
+<p>Now, it is as easy as selecting one origin space using the <strong>jgraph_from_multiple_origins</strong> function to rapidly have a common J-Graph!</p>
+<p>For example, one can look at the entrance hall (<code>C</code>) and compare it to the overall surroundings (in this case grouped under the label <code>X</code>)</p>
+<div id="cell-8" class="cell" data-execution_count="3">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>jgraph_from_node(G,<span class="st">'C'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>jgraph_from_multiple_origins(G,<span class="st">'C'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>Mean depth = 1.9
+<pre><code>Mean depth = 1.90
 Maximum topological steps = 4</code></pre>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="jgraph_files/figure-html/cell-4-output-2.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<div id="cell-9" class="cell" data-execution_count="4">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>jgraph_from_multiple_origins(G,<span class="st">'X'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>Mean depth = 2.67
+Maximum topological steps = 6</code></pre>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="jgraph_files/figure-html/cell-5-output-2.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>To make things more interesting, the function was designed to accept a list of possible origins.</p>
+<p>This deviates from the classical idea of a J-Graph, but it is an useful method to visualize and evaluate things like the the maximum topological depth of a builduing from all its entrances. In this case <code>A</code>,<code>D</code> and <code>I</code>.</p>
+<div id="cell-11" class="cell" data-execution_count="5">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>entrances <span class="op">=</span> [<span class="st">'A'</span>, <span class="st">'D'</span>, <span class="st">'I'</span>]</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>jgraph_from_multiple_origins(G,entrances)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>Mean depth = 1.86
+Maximum topological steps = 5</code></pre>
 </div>
 <div class="cell-output cell-output-display">
 <div>
@@ -393,25 +514,216 @@ Maximum topological steps = 4</code></pre>
 </div>
 </div>
 </div>
-<div id="cell-9" class="cell" data-execution_count="6">
+<p>In this case one sees that <code>M</code> is clearly the outlier. When looking at the correspondance on the floorplan, it corresponds to one of the private bathrooms (the most intimate parts of the layout), which comparatively to the entrances (the most ‘public’ parts), makes sense to be on polar opposites.</p>
+<p>Yet, noticind how heavily loaded the steps 1,2 and 3 are one could definetly start to see the intentionality to move as many instances of the building to the entrnaces. Something that clearly aligns with the architects desire to celebrate the outdoor.</p>
+</section>
+<section id="bonus" class="level3">
+<h3 class="anchored" data-anchor-id="bonus">Bonus:</h3>
+<section id="exploring-mean-depth-values" class="level4">
+<h4 class="anchored" data-anchor-id="exploring-mean-depth-values">Exploring <em>mean depth values</em></h4>
+<p>Even thoough, the objective of this excercise was only about J-Graphs, I have added a small section below looking at aggregate values of <em>mean depth</em> in all instances of the building.</p>
+<div id="cell-13" class="cell" data-execution_count="6">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>jgraph_from_node(G,<span class="st">'O'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define main function</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> mean_depth_calcs(G, graph_output<span class="op">=</span><span class="va">True</span>):</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">"""</span></span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a><span class="co">    Calculates mean depth (average shortest path length) from every node to all other nodes in the graph.</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a><span class="co">    Optionally adds mean depth as a node attribute or returns a DataFrame with mean depths and ranks.</span></span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a><span class="co">    Parameters:</span></span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a><span class="co">    G (networkx.Graph): The graph on which to perform calculations.</span></span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a><span class="co">    graph_output (bool): If True, returns the graph with 'mean_depth' as a node attribute.</span></span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a><span class="co">                         If False, returns a DataFrame with mean depths and their ranks.</span></span>
+<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a><span class="co">    Returns:</span></span>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a><span class="co">    networkx.Graph or pandas.DataFrame: Depending on the value of graph_output.</span></span>
+<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a><span class="co">    """</span></span>
+<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>    nodes <span class="op">=</span> <span class="bu">list</span>(G.nodes())</span>
+<span id="cb9-16"><a href="#cb9-16" aria-hidden="true" tabindex="-1"></a>    mean_depths <span class="op">=</span> {}</span>
+<span id="cb9-17"><a href="#cb9-17" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> n <span class="kw">in</span> nodes:</span>
+<span id="cb9-18"><a href="#cb9-18" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Compute shortest paths from n to all other nodes</span></span>
+<span id="cb9-19"><a href="#cb9-19" aria-hidden="true" tabindex="-1"></a>        path_lengths <span class="op">=</span> nx.single_source_shortest_path_length(G, source<span class="op">=</span>n)</span>
+<span id="cb9-20"><a href="#cb9-20" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Calculate mean depth avoiding infinity (no path situations)</span></span>
+<span id="cb9-21"><a href="#cb9-21" aria-hidden="true" tabindex="-1"></a>        depths <span class="op">=</span> [length <span class="cf">for</span> length <span class="kw">in</span> path_lengths.values() <span class="cf">if</span> length <span class="op">&lt;</span> np.inf]</span>
+<span id="cb9-22"><a href="#cb9-22" aria-hidden="true" tabindex="-1"></a>        mean_depths[n] <span class="op">=</span> np.mean(depths) <span class="cf">if</span> depths <span class="cf">else</span> np.inf  <span class="co"># Handle isolated nodes</span></span>
+<span id="cb9-23"><a href="#cb9-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-24"><a href="#cb9-24" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set mean_depth as node attribute if required</span></span>
+<span id="cb9-25"><a href="#cb9-25" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> graph_output:</span>
+<span id="cb9-26"><a href="#cb9-26" aria-hidden="true" tabindex="-1"></a>        nx.set_node_attributes(G, mean_depths, <span class="st">'mean_depth'</span>)</span>
+<span id="cb9-27"><a href="#cb9-27" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> G</span>
+<span id="cb9-28"><a href="#cb9-28" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb9-29"><a href="#cb9-29" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Create a DataFrame from the mean depths dictionary</span></span>
+<span id="cb9-30"><a href="#cb9-30" aria-hidden="true" tabindex="-1"></a>        df <span class="op">=</span> pd.DataFrame.from_dict(mean_depths, orient<span class="op">=</span><span class="st">'index'</span>, columns<span class="op">=</span>[<span class="st">'mean_depth'</span>])</span>
+<span id="cb9-31"><a href="#cb9-31" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Rank the mean_depths, lower is better hence ascending</span></span>
+<span id="cb9-32"><a href="#cb9-32" aria-hidden="true" tabindex="-1"></a>        df[<span class="st">'mean_depth_rank'</span>] <span class="op">=</span> df[<span class="st">'mean_depth'</span>].rank(method<span class="op">=</span><span class="st">'min'</span>, ascending<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb9-33"><a href="#cb9-33" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> df</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-<div class="cell-output cell-output-stdout">
-<pre><code>Mean depth = 3.14
-Maximum topological steps = 5</code></pre>
 </div>
+<p>Testing the function with a graph output</p>
+<div id="cell-15" class="cell" data-execution_count="7">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Default function. Graph output</span></span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>mean_depth_graph <span class="op">=</span> mean_depth_calcs(G)</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate node sizes inversely proportional to mean_depth values</span></span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>node_mean_depths <span class="op">=</span> nx.get_node_attributes(mean_depth_graph, <span class="st">'mean_depth'</span>)</span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>max_depth <span class="op">=</span> <span class="bu">max</span>(node_mean_depths.values())</span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Normalize and invert the sizes</span></span>
+<span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a>node_sizes <span class="op">=</span> {node: <span class="dv">1000</span> <span class="op">*</span> (<span class="dv">1</span> <span class="op">/</span> (depth <span class="op">/</span> max_depth)) <span class="cf">for</span> node, depth <span class="kw">in</span> node_mean_depths.items()}</span>
+<span id="cb10-10"><a href="#cb10-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-11"><a href="#cb10-11" aria-hidden="true" tabindex="-1"></a><span class="co"># Selecting the layout</span></span>
+<span id="cb10-12"><a href="#cb10-12" aria-hidden="true" tabindex="-1"></a>pos <span class="op">=</span> nx.kamada_kawai_layout(mean_depth_graph)  <span class="co"># Using Kamada-Kawai layout</span></span>
+<span id="cb10-13"><a href="#cb10-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-14"><a href="#cb10-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Draw the graph</span></span>
+<span id="cb10-15"><a href="#cb10-15" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">6</span>, <span class="dv">6</span>)) </span>
+<span id="cb10-16"><a href="#cb10-16" aria-hidden="true" tabindex="-1"></a>nx.draw(mean_depth_graph, pos,</span>
+<span id="cb10-17"><a href="#cb10-17" aria-hidden="true" tabindex="-1"></a>        node_color<span class="op">=</span><span class="bu">list</span>(node_mean_depths.values()),</span>
+<span id="cb10-18"><a href="#cb10-18" aria-hidden="true" tabindex="-1"></a>        node_size<span class="op">=</span>[node_sizes[n] <span class="cf">for</span> n <span class="kw">in</span> mean_depth_graph.nodes()],</span>
+<span id="cb10-19"><a href="#cb10-19" aria-hidden="true" tabindex="-1"></a>        with_labels<span class="op">=</span><span class="va">True</span>, cmap<span class="op">=</span>plt.cm.viridis)</span>
+<span id="cb10-20"><a href="#cb10-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-21"><a href="#cb10-21" aria-hidden="true" tabindex="-1"></a>plt.colorbar(plt.cm.ScalarMappable(cmap<span class="op">=</span>plt.cm.viridis,</span>
+<span id="cb10-22"><a href="#cb10-22" aria-hidden="true" tabindex="-1"></a>                                   norm<span class="op">=</span>plt.Normalize(vmin<span class="op">=</span><span class="bu">min</span>(node_mean_depths.values()), </span>
+<span id="cb10-23"><a href="#cb10-23" aria-hidden="true" tabindex="-1"></a>                                                      vmax<span class="op">=</span><span class="bu">max</span>(node_mean_depths.values()))),</span>
+<span id="cb10-24"><a href="#cb10-24" aria-hidden="true" tabindex="-1"></a>             ax<span class="op">=</span>plt.gca(), label<span class="op">=</span><span class="st">'Mean Depth'</span>)</span>
+<span id="cb10-25"><a href="#cb10-25" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="jgraph_files/figure-html/cell-7-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="jgraph_files/figure-html/cell-8-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 </div>
+<p>Testing function with a DataFrame output</p>
+<div id="cell-17" class="cell" data-execution_count="8">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Testing function with a DataFrame output</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>mean_depth_df <span class="op">=</span> mean_depth_calcs(G, graph_output<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Print and display ordered DF</span></span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"Top 5 'shallow' nodes:"</span>)</span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a>mean_depth_df.sort_values(<span class="st">'mean_depth'</span>, ascending<span class="op">=</span><span class="va">True</span>).head()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>Top 5 'shallow' nodes:</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="8">
+<div>
+<div>
 
 
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">mean_depth</th>
+<th data-quarto-table-cell-role="th">mean_depth_rank</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">C</td>
+<td>1.904762</td>
+<td>1.0</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">D</td>
+<td>2.190476</td>
+<td>2.0</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">Q</td>
+<td>2.238095</td>
+<td>3.0</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">B</td>
+<td>2.285714</td>
+<td>4.0</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">F</td>
+<td>2.428571</td>
+<td>5.0</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="distribution-of-mean-depth-values" class="level4">
+<h4 class="anchored" data-anchor-id="distribution-of-mean-depth-values">Distribution of MEAN DEPTH values</h4>
+<div id="cell-19" class="cell" data-execution_count="9">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>mean_depth_values <span class="op">=</span> mean_depth_df[<span class="st">'mean_depth'</span>]</span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Normalize the data for color mapping</span></span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>norm <span class="op">=</span> mcolors.Normalize(vmin<span class="op">=</span><span class="bu">min</span>(mean_depth_values), vmax<span class="op">=</span><span class="bu">max</span>(mean_depth_values))</span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>cmap <span class="op">=</span> plt.cm.viridis  <span class="co"># or any other colormap</span></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Create the histogram</span></span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a>fig, ax <span class="op">=</span> plt.subplots()</span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a>n, bins, patches <span class="op">=</span> ax.hist(mean_depth_values, bins<span class="op">=</span><span class="dv">20</span>, edgecolor<span class="op">=</span><span class="st">'white'</span>)</span>
+<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate the bin centers</span></span>
+<span id="cb13-12"><a href="#cb13-12" aria-hidden="true" tabindex="-1"></a>bin_centers <span class="op">=</span> <span class="fl">0.5</span> <span class="op">*</span> (bins[:<span class="op">-</span><span class="dv">1</span>] <span class="op">+</span> bins[<span class="dv">1</span>:])</span>
+<span id="cb13-13"><a href="#cb13-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-14"><a href="#cb13-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Color each bin according to the mean_depth value it represents</span></span>
+<span id="cb13-15"><a href="#cb13-15" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> bin_center, patch <span class="kw">in</span> <span class="bu">zip</span>(bin_centers, patches):</span>
+<span id="cb13-16"><a href="#cb13-16" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Calculate color for the bin based on bin center</span></span>
+<span id="cb13-17"><a href="#cb13-17" aria-hidden="true" tabindex="-1"></a>    bin_color <span class="op">=</span> cmap(norm(bin_center))</span>
+<span id="cb13-18"><a href="#cb13-18" aria-hidden="true" tabindex="-1"></a>    patch.set_facecolor(bin_color)</span>
+<span id="cb13-19"><a href="#cb13-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-20"><a href="#cb13-20" aria-hidden="true" tabindex="-1"></a><span class="co"># Add a colorbar to show the mapping from color to the mean_depth values</span></span>
+<span id="cb13-21"><a href="#cb13-21" aria-hidden="true" tabindex="-1"></a>sm <span class="op">=</span> plt.cm.ScalarMappable(cmap<span class="op">=</span>cmap, norm<span class="op">=</span>norm)</span>
+<span id="cb13-22"><a href="#cb13-22" aria-hidden="true" tabindex="-1"></a>sm.set_array([])</span>
+<span id="cb13-23"><a href="#cb13-23" aria-hidden="true" tabindex="-1"></a>cbar <span class="op">=</span> fig.colorbar(sm, ax<span class="op">=</span>ax, label<span class="op">=</span><span class="st">'Mean Depth'</span>)</span>
+<span id="cb13-24"><a href="#cb13-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-25"><a href="#cb13-25" aria-hidden="true" tabindex="-1"></a><span class="co"># Plotting details</span></span>
+<span id="cb13-26"><a href="#cb13-26" aria-hidden="true" tabindex="-1"></a>ax.set_title(<span class="st">'Histogram of Mean Depths'</span>)</span>
+<span id="cb13-27"><a href="#cb13-27" aria-hidden="true" tabindex="-1"></a>ax.set_xlabel(<span class="st">'Mean Depth'</span>)</span>
+<span id="cb13-28"><a href="#cb13-28" aria-hidden="true" tabindex="-1"></a>ax.set_ylabel(<span class="st">'Frequency'</span>)</span>
+<span id="cb13-29"><a href="#cb13-29" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="jgraph_files/figure-html/cell-10-output-1.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<div id="cell-20" class="cell" data-execution_count="10">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>mean_depth_df.mean_depth.describe()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display" data-execution_count="10">
+<pre><code>count    21.000000
+mean      2.925170
+std       0.616951
+min       1.904762
+25%       2.666667
+50%       2.857143
+75%       3.142857
+max       4.666667
+Name: mean_depth, dtype: float64</code></pre>
+</div>
+</div>
+<p>To see more about this project and the overall residency see <a href="../../work/others/articles.html">Exploring Salmona</a> under <a href="../../work/others/articles.html">Other / Articles</a> section.</p>
+
+
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
