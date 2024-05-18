@@ -24,29 +24,38 @@ website:
       collapse-level: 1
       contents:
       - section: "Data Visualisation"
-        contents: 
-        - text: "J-Graphs"
+        contents:
+        - text: NFI - City Pulse
+        - text: J-Graphs
           href : work/data_viz/jgraph.ipynb
-        - text: "Article 19"
+        - text: Article 19
           href : work/data_viz/article19.qmd
-        - text: "End Child Poverty"
+        - text: End Child Poverty
           href : work/data_viz/end_ch_poverty.qmd
       
       - section: "Urban Planning"
-        contents: 
-        - text: "Roundabout Simplification"
+        contents:
+        - text: Jilin squares
+        - text: Roundabout Simplification
           href: work/urban/rab_simpl.qmd
+        - text: Paddington navigation & Placemanking
+        - text: Bogota early diagnosis
 
       - section: "Architecture & Strategy"
-        contents: 
+        contents:
+        - text: ASOS Studios
+        - text: Legal & General (L&G)
+        - text: Southback Center - workplace
         - text: Building Research Unit
           href: work/archi/bru.qmd
+        - text: Sense of Place @ TATE Modern
+        
 
       - section: "Others"
         contents: 
-        - text: "Talks"
+        - text: Talks
           href: work/others/talks.qmd
-        - text: "Articles"
+        - text: Articles
           href: work/others/articles.qmd
       
   page-footer:
