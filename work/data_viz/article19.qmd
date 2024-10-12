@@ -1,5 +1,27 @@
 ---
 title: "Article 19"
+authors:
+    - name: Greg Maya
+    - name: A19 Research Team
 ---
+### What is Article 19?
+Article 19 is a non-profit organisation working to protect and promote the freedom of speech in the world. Based in London but with presence in all continents, their mission is 
 
-a short description of my impact and involvement in A19 GxR reports and overall pipeline.
+> ... 'by working on two interlocking freedoms: the Freedom to Speak, and the Freedom to Know.
+When either of these freedoms come under threat, ARTICLE 19 speaks with one voice.'
+
+### My contributions
+Initially, I was only commissioned to analyse a small series of data points. Quickly, we realized the potential to re'think their whole pipele for their annual GxR report.
+
+This is still the main focus of my work, yet, the outputs expand beyond what's available online and now reach:
+
+- **Public -general audience**
+    - through visualisation embeds in [website](https://www.globalexpressionreport.org/).
+
+- **Internal - A19 staff**
+    - through data dashboards hosted in [Tableau Public](https://public.tableau.com/app/profile/article19/vizzes).
+
+### The Pipeline
+The main objectives of creating a data pipeline where:
+
+- to increase 
