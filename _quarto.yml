@@ -26,6 +26,7 @@ website:
       - section: "Data Visualisation"
         contents:
         - text: NFI - City Pulse
+          href : work/data_viz/nfi_city_pulse.qmd
         - text: J-Graphs
           href : work/data_viz/jgraph.ipynb
         - text: Article 19
@@ -34,21 +35,21 @@ website:
           href : work/data_viz/end_ch_poverty.qmd
       
       - section: "Urban Planning"
-        contents:
-        - text: Jilin squares
-        - text: Roundabout Simplification
-          href: work/urban/rab_simpl.qmd
-        - text: Paddington navigation & Placemanking
-        - text: Bogota early diagnosis
+      #  contents:
+      #  - text: Jilin squares
+      #  - text: Roundabout Simplification
+      #    href: work/urban/rab_simpl.qmd
+      #  - text: Paddington navigation & Placemanking
+      #  - text: Bogota early diagnosis
 
       - section: "Architecture & Strategy"
-        contents:
-        - text: ASOS Studios
-        - text: Legal & General (L&G)
-        - text: Southback Center - workplace
-        - text: Building Research Unit
-          href: work/archi/bru.qmd
-        - text: Sense of Place @ TATE Modern
+      #  contents:
+      #  - text: ASOS Studios
+      #  - text: Legal & General (L&G)
+      #  - text: Southback Center - workplace
+      #  - text: Building Research Unit
+      #    href: work/archi/bru.qmd
+      #  - text: Sense of Place @ TATE Modern
         
 
       - section: "Others"
