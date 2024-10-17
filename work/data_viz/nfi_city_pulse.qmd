@@ -4,3 +4,10 @@ authors:
     - name: Greg Maya
     - name: NFI Lab team
 ---
+::: {layout="[[1], [1,1]]"}
+![Norman Foster Institute - CityLab](citypulse/NORMAN FOSTER INSTITUTE_12_MARZO_2024_F7A6410.jpg)
+
+![](citypulse/NFF_NORMAN FOSTER INSTITUTE_LAB_24_NOVIEMBRE_2023_F7A7644.jpg)
+
+![](citypulse/NORMAN FOSTER INSTITUTE_12_MARZO_2024_F7A6374.jpg)
+:::
