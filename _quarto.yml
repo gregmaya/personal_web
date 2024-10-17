@@ -17,7 +17,7 @@ website:
       - text: "Services"
         href: services/index_services.qmd
       - text: "CV"
-        href: "CV - Greg Maya.pdf"
+        href: "CV - Gregorio Maya.pdf"
 
   sidebar:
       #title: Works
