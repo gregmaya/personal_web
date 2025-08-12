@@ -26,15 +26,10 @@ The main objectives of creating a data pipeline where:
 
 ## v2 native embeds
 
-<div class="hf-embed-wrap">
-  <iframe
-    src="https://gmaya-a19-gxr-globalmap.hf.space"
-    title="A19 GXR Global Map"
-    allow="clipboard-write; fullscreen; geolocation"
-    loading="lazy"></iframe>
-</div>
-<style>
-  .hf-embed-wrap{ position:relative; width:100%; aspect-ratio: 3 / 4; max-width:1200px; margin:0 auto; }
-  .hf-embed-wrap > iframe{ position:absolute; inset:0; width:100%; height:100%; border:0; }
-  @media (min-width:768px){ .hf-embed-wrap{ aspect-ratio:16/9; } }
-</style>
+<iframe
+  src="https://gmaya-a19-gxr-globalmap.hf.space"
+  title="A19 GXR Global Map"
+  style="width:100%; height:clamp(420px, 85dvh, 900px); border:0; display:block;"
+  allow="clipboard-write; fullscreen; geolocation"
+  loading="lazy">
+</iframe>
