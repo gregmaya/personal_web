@@ -24,4 +24,11 @@ This is still the main focus of my work, yet, the outputs expand beyond what's a
 ### The Pipeline
 The main objectives of creating a data pipeline where:
 
-- to increase 
+## v2 native embeds
+
+<iframe
+  src="https://huggingface.co/spaces/gmaya/a19_gxr_globalmap/embed?__theme=light"
+  title="A19 GXR Global Map"
+  style="width:100%; height:clamp(420px, 85dvh, 900px); border:0;"
+  allow="clipboard-write; fullscreen; geolocation"
+  loading="lazy"></iframe>
