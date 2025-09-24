@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gregmaya.github.io/personal_web/index.html</loc>
-    <lastmod>2025-08-12T09:13:14.664Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/about.html</loc>
-    <lastmod>2025-08-12T09:13:10.857Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/work/archi/bru.html</loc>
-    <lastmod>2025-08-12T09:13:14.665Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/work/others/talks.html</loc>
-    <lastmod>2025-08-12T09:13:14.687Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/work/data_viz/jgraph.html</loc>
-    <lastmod>2025-08-12T09:13:14.685Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/work/data_viz/end_ch_poverty.html</loc>
-    <lastmod>2025-08-12T09:13:14.675Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/work/index_work.html</loc>
-    <lastmod>2025-08-12T09:13:14.685Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/networkx/drawing/tests/test_latex.html</loc>
-    <lastmod>2025-08-12T09:13:12.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/numpy/random/LICENSE.html</loc>
-    <lastmod>2025-08-12T09:13:12.604Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/pandas/tests/indexes/period/test_constructors.html</loc>
-    <lastmod>2025-08-12T09:13:12.901Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/pandas/tests/indexes/datetimes/test_indexing.html</loc>
-    <lastmod>2025-08-12T09:13:12.891Z</lastmod>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/QtPy-2.4.1.dist-info/AUTHORS.html</loc>
+    <lastmod>2025-09-24T07:28:16.154Z</lastmod>
   </url>
   <url>
     <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/httpx-0.27.0.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2025-08-12T09:13:11.595Z</lastmod>
+    <lastmod>2025-09-24T07:28:16.783Z</lastmod>
   </url>
   <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/httpcore-1.0.5.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2025-08-12T09:13:11.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/soupsieve-2.5.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2025-08-12T09:13:14.449Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/my_cv.html</loc>
-    <lastmod>2025-08-12T09:13:14.664Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/libpysal/cg/tests/fast_point_in_polygon_algorithm.html</loc>
-    <lastmod>2025-08-12T09:13:11.870Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/cffi/recompiler.html</loc>
-    <lastmod>2025-08-12T09:13:11.170Z</lastmod>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/networkx/drawing/tests/test_latex.html</loc>
+    <lastmod>2025-09-24T07:28:17.331Z</lastmod>
   </url>
   <url>
     <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/pyzmq-26.0.3.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2025-08-12T09:13:13.273Z</lastmod>
+    <lastmod>2025-09-24T07:28:18.453Z</lastmod>
   </url>
   <url>
     <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/pandas/tests/indexes/period/test_indexing.html</loc>
-    <lastmod>2025-08-12T09:13:12.901Z</lastmod>
+    <lastmod>2025-09-24T07:28:18.078Z</lastmod>
   </url>
   <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/QtPy-2.4.1.dist-info/AUTHORS.html</loc>
-    <lastmod>2025-08-12T09:13:10.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/idna-3.7.dist-info/LICENSE.html</loc>
-    <lastmod>2025-08-12T09:13:11.599Z</lastmod>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/pandas/tests/indexes/datetimes/test_indexing.html</loc>
+    <lastmod>2025-09-24T07:28:18.069Z</lastmod>
   </url>
   <url>
     <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/matplotlib/backends/web_backend/nbagg_uat.html</loc>
-    <lastmod>2025-08-12T09:13:11.957Z</lastmod>
+    <lastmod>2025-09-24T07:28:17.145Z</lastmod>
   </url>
   <url>
-    <loc>https://gregmaya.github.io/personal_web/work/data_viz/article19.html</loc>
-    <lastmod>2025-08-12T09:13:14.665Z</lastmod>
+    <loc>https://gregmaya.github.io/personal_web/index.html</loc>
+    <lastmod>2025-09-24T07:28:19.853Z</lastmod>
   </url>
   <url>
-    <loc>https://gregmaya.github.io/personal_web/work/data_viz/index_data.html</loc>
-    <lastmod>2025-08-12T09:13:14.683Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/work/data_viz/nfi_city_pulse.html</loc>
-    <lastmod>2025-08-12T09:13:14.685Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregmaya.github.io/personal_web/work/others/articles.html</loc>
-    <lastmod>2025-08-12T09:13:14.687Z</lastmod>
+    <loc>https://gregmaya.github.io/personal_web/work/archi/bru.html</loc>
+    <lastmod>2025-09-24T07:28:19.854Z</lastmod>
   </url>
   <url>
     <loc>https://gregmaya.github.io/personal_web/work/urban/rab_simpl.html</loc>
-    <lastmod>2025-08-12T09:13:14.687Z</lastmod>
+    <lastmod>2025-09-24T07:28:19.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/others/talks.html</loc>
+    <lastmod>2025-09-24T07:28:19.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/data_viz/end_ch_poverty.html</loc>
+    <lastmod>2025-09-24T07:28:19.863Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/data_viz/index_data.html</loc>
+    <lastmod>2025-09-24T07:28:19.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/my_cv.html</loc>
+    <lastmod>2025-09-24T07:28:19.853Z</lastmod>
   </url>
   <url>
     <loc>https://gregmaya.github.io/personal_web/services/index_services.html</loc>
-    <lastmod>2025-08-12T09:13:14.665Z</lastmod>
+    <lastmod>2025-09-24T07:28:19.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/data_viz/nfi_city_pulse.html</loc>
+    <lastmod>2025-09-24T07:28:19.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/data_viz/article19.html</loc>
+    <lastmod>2025-09-24T07:28:19.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/data_viz/jgraph.html</loc>
+    <lastmod>2025-09-24T07:28:19.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/others/articles.html</loc>
+    <lastmod>2025-09-24T07:28:19.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/work/index_work.html</loc>
+    <lastmod>2025-09-24T07:28:19.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/about.html</loc>
+    <lastmod>2025-09-24T07:28:16.044Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/idna-3.7.dist-info/LICENSE.html</loc>
+    <lastmod>2025-09-24T07:28:16.787Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/libpysal/cg/tests/fast_point_in_polygon_algorithm.html</loc>
+    <lastmod>2025-09-24T07:28:17.058Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/pandas/tests/indexes/period/test_constructors.html</loc>
+    <lastmod>2025-09-24T07:28:18.078Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/httpcore-1.0.5.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2025-09-24T07:28:16.779Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/numpy/random/LICENSE.html</loc>
+    <lastmod>2025-09-24T07:28:17.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/soupsieve-2.5.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2025-09-24T07:28:19.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregmaya.github.io/personal_web/geo_env/lib/python3.10/site-packages/cffi/recompiler.html</loc>
+    <lastmod>2025-09-24T07:28:16.357Z</lastmod>
   </url>
 </urlset>
