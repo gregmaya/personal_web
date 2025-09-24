@@ -17,11 +17,22 @@ This is still the main focus of my work, yet, the outputs expand beyond what's a
 
 - **Public -general audience**
     - through visualisation embeds in [website](https://www.globalexpressionreport.org/).
-
+    - hosted in 
 - **Internal - A19 staff**
     - through data dashboards hosted in [Tableau Public](https://public.tableau.com/app/profile/article19/vizzes).
 
 ### The Pipeline
 The main objectives of creating a data pipeline where:
 
-- to increase 
+- to increase processing time to speed up publishing
+- reduce production costs
+- establish a low maintenance deployment
+
+### Wold Map example 
+
+<iframe src="https://gmaya-a19-gxr-globalmap.hf.space"
+  width="100%"
+  height="640"
+  frameborder="0"
+  title="Global Expression Report Interactive Map">
+</iframe>
